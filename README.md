@@ -64,6 +64,27 @@ The pool of possible daily quests. The app deterministically picks 3 per day fro
 - Keep `id` stable once published — it's the key the app uses to track a player's daily progress on that quest. Renaming an `id` effectively creates a new quest rather than editing the old one.
 - Keep `bonusXP`/`bonusCoins` modest — these are deliberately small, frequent rewards (the existing pool ranges 10–45 XP / 10–25 coins), not a way to inflate the economy.
 
+### `reading-ar.json` / `reading-en.json`
+
+Ultra-short story bank for the Read activity (~100 stories per language, each readable in well under two screen-scrolls). Same "separate, not translated" relationship as the quiz files. Structure:
+
+```json
+{
+  "stories": [
+    {
+      "id": "read-en-001",
+      "category": "horror",
+      "title": "Story title",
+      "body": "The full story text, one paragraph."
+    }
+  ]
+}
+```
+
+- `category` must be one of: `horror`, `comedy`, `romance`, `marriage`, `family`, `facts`, `scifi`, `fantasy`, `mindset`.
+- `id` should be unique within the file; convention is `read-ar-NNN` / `read-en-NNN`, but the app doesn't parse it.
+- To add stories: append more objects to the `stories` array. Keep them short — the whole point of this section is a quick, finite reading break, not a long-form article.
+
 ## Workflow
 
 1. Edit the relevant JSON file directly on GitHub (or clone, edit, `git push`).
