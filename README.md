@@ -85,6 +85,35 @@ Ultra-short story bank for the Read activity (~100 stories per language, each re
 - `id` should be unique within the file; convention is `read-ar-NNN` / `read-en-NNN`, but the app doesn't parse it.
 - To add stories: append more objects to the `stories` array. Keep them short — the whole point of this section is a quick, finite reading break, not a long-form article.
 
+### `microgames-content-ar.json` / `microgames-content-en.json`
+
+Remote content banks for the micro-games library (the short "doomscroll-interruption" games, separate from quiz/reading). Only games built around a fixed, swappable list of words/pairs/categories have a section here — games that generate rounds algorithmically (Chaos Calculator, Missing Link, Bubble Pop Math, High-Low Count, Vowel Collector, Grid Density Comparison, Peg Popper, Odd-One-Out Color, Constellation Connect) have nothing to externalize. A key that's missing or empty just means that game keeps using its bundled fallback, so you can add sections one game at a time. Structure:
+
+```json
+{
+  "rhymeTime": [{ "a": "CAT", "b": "HAT" }],
+  "synonymSnap": [{ "a": "HAPPY", "b": "GLAD" }],
+  "oppositeAttracts": [{ "a": "HOT", "b": "COLD" }],
+  "oddOneOutTypography": [{ "a": "O", "b": "0" }],
+  "categorySort": [{ "name": "Animals", "words": ["DOG", "CAT", "LION"] }],
+  "wordScramble": [["D", "O", "G"]],
+  "colorWordMatch": [{ "colorKey": "red", "label": "RED" }],
+  "pairFinderEmoji": ["🐱", "🐶"],
+  "emojiEquationEmoji": ["🍎", "🍌"],
+  "associationChain": [{ "a": "BREAD", "b": "BUTTER" }],
+  "letterNumberSwap": [["C", "A", "T"]]
+}
+```
+
+- `rhymeTime` / `synonymSnap` / `oppositeAttracts` / `oddOneOutTypography` / `associationChain` are all the same "pair" shape (`a`/`b`), just different games: `a` is what's shown, `b` is the correct answer (for Odd-One-Out Typography, `a` is the repeated base glyph and `b` is the impostor glyph tucked into the grid; for Association Chain, it's an everyday "goes with" pairing like bread/butter, not a synonym or antonym). Keep every `a`/`b` value unique within its own list — the game draws wrong-answer decoys from the same list, so a repeated word can create a round with two "correct" answers.
+- `categorySort`: `words` should have at least 4-5 entries per category so decoys don't get thin. Add more categories or more words to existing ones freely.
+- `wordScramble`: each entry is one word already split into individual letters, in reading order. Keep words short (3-4 letters) — the game reveals one letter per tap and isn't designed for long words.
+- `letterNumberSwap`: same shape as `wordScramble` (a word split into letters), but for a different game — it asks players to sum each letter's numeric value (English: A=1...Z=26; Arabic: traditional Abjad numerals). The app computes the sum itself from whatever letters you provide, so any real word works correctly automatically — no risk of a mismatched hand-authored answer.
+- `colorWordMatch`: `colorKey` **must** be one of the app's built-in supported keys — `red`, `blue`, `green`, `yellow`, `purple`, `orange`, `teal`, `pink`, `brown`, `cyan`, `indigo`, `mint` — since that maps to an actual system color in the app; `label` is just the bilingual display text, freely editable. A `colorKey` outside that list is ignored safely (falls back to bundled colors) rather than crashing anything.
+- `pairFinderEmoji` / `emojiEquationEmoji`: flat emoji lists, language-neutral (safe to keep identical in both files) — expand freely, native emoji need no art.
+- Like the quiz/reading files, editing here **replaces the whole list for that key**, it doesn't merge with the bundled one — so when you add an entry, re-include the ones you want to keep too.
+- Seeded at push time with the same content already bundled in the app, so nothing changes for existing players until you actually edit these files.
+
 ## Workflow
 
 1. Edit the relevant JSON file directly on GitHub (or clone, edit, `git push`).
