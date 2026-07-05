@@ -1,0 +1,2804 @@
+{
+  "facts": [
+    {
+      "id": "qf-01-01",
+      "categoryEn": "Space & Astronomy",
+      "categoryAr": "الفضاء وعلم الفلك",
+      "textEn": "The Sun accounts for 99.86% of the mass in our solar system.",
+      "textAr": "تمثل الشمس 99.86% من كتلة نظامنا الشمسي."
+    },
+    {
+      "id": "qf-01-02",
+      "categoryEn": "Space & Astronomy",
+      "categoryAr": "الفضاء وعلم الفلك",
+      "textEn": "A day on Venus is longer than a year on Venus.",
+      "textAr": "اليوم في كوكب الزهرة أطول من السنة فيه."
+    },
+    {
+      "id": "qf-01-03",
+      "categoryEn": "Space & Astronomy",
+      "categoryAr": "الفضاء وعلم الفلك",
+      "textEn": "Space is completely silent because there is no atmosphere to carry sound.",
+      "textAr": "الفضاء صامت تمامًا لعدم وجود غلاف جوي ينقل الصوت."
+    },
+    {
+      "id": "qf-01-04",
+      "categoryEn": "Space & Astronomy",
+      "categoryAr": "الفضاء وعلم الفلك",
+      "textEn": "Neutron stars can spin up to 600 times per second.",
+      "textAr": "يمكن للنجوم النيوترونية أن تدور حتى 600 مرة في الثانية."
+    },
+    {
+      "id": "qf-01-05",
+      "categoryEn": "Space & Astronomy",
+      "categoryAr": "الفضاء وعلم الفلك",
+      "textEn": "There is a planet entirely covered in burning ice.",
+      "textAr": "يوجد كوكب مغطى بالكامل بالجليد المشتعل."
+    },
+    {
+      "id": "qf-01-06",
+      "categoryEn": "Space & Astronomy",
+      "categoryAr": "الفضاء وعلم الفلك",
+      "textEn": "Footprints on the Moon will last for millions of years.",
+      "textAr": "آثار الأقدام على القمر ستبقى لملايين السنين."
+    },
+    {
+      "id": "qf-01-07",
+      "categoryEn": "Space & Astronomy",
+      "categoryAr": "الفضاء وعلم الفلك",
+      "textEn": "One million Earths could fit inside the Sun.",
+      "textAr": "يمكن أن تتسع الشمس لمليون كوكب بحجم الأرض."
+    },
+    {
+      "id": "qf-01-08",
+      "categoryEn": "Space & Astronomy",
+      "categoryAr": "الفضاء وعلم الفلك",
+      "textEn": "Saturn is the only planet that could float in water.",
+      "textAr": "زحل هو الكوكب الوحيد الذي يمكنه الطفو على الماء."
+    },
+    {
+      "id": "qf-01-09",
+      "categoryEn": "Space & Astronomy",
+      "categoryAr": "الفضاء وعلم الفلك",
+      "textEn": "There are more trees on Earth than stars in the Milky Way.",
+      "textAr": "عدد الأشجار على الأرض يفوق عدد النجوم في درب التبانة."
+    },
+    {
+      "id": "qf-01-10",
+      "categoryEn": "Space & Astronomy",
+      "categoryAr": "الفضاء وعلم الفلك",
+      "textEn": "The Apollo 11 moon landing tapes were accidentally erased.",
+      "textAr": "تم مسح أشرطة الهبوط على القمر لرحلة أبولو 11 عن طريق الخطأ."
+    },
+    {
+      "id": "qf-02-01",
+      "categoryEn": "Physics & Chemistry",
+      "categoryAr": "الفيزياء والكيمياء",
+      "textEn": "Water can boil and freeze at the same time (the triple point).",
+      "textAr": "يمكن للماء أن يغلي ويتجمد في نفس الوقت (النقطة الثلاثية)."
+    },
+    {
+      "id": "qf-02-02",
+      "categoryEn": "Physics & Chemistry",
+      "categoryAr": "الفيزياء والكيمياء",
+      "textEn": "Bananas are slightly radioactive due to potassium.",
+      "textAr": "الموز مشع قليلًا بسبب احتوائه على البوتاسيوم."
+    },
+    {
+      "id": "qf-02-03",
+      "categoryEn": "Physics & Chemistry",
+      "categoryAr": "الفيزياء والكيمياء",
+      "textEn": "Glass is actually a supercooled liquid, not a solid.",
+      "textAr": "الزجاج في الواقع سائل فائق التبريد وليس مادة صلبة."
+    },
+    {
+      "id": "qf-02-04",
+      "categoryEn": "Physics & Chemistry",
+      "categoryAr": "الفيزياء والكيمياء",
+      "textEn": "Helium can work against gravity when cooled to near absolute zero.",
+      "textAr": "يمكن للهيليوم أن يتحدى الجاذبية عند تبريده إلى ما يقارب الصفر المطلق."
+    },
+    {
+      "id": "qf-02-05",
+      "categoryEn": "Physics & Chemistry",
+      "categoryAr": "الفيزياء والكيمياء",
+      "textEn": "If you pour a handful of salt into a full glass of water, the water level will actually go down.",
+      "textAr": "إذا سكبت حفنة من الملح في كوب ممتلئ بالماء، سينخفض مستوى الماء في الواقع."
+    },
+    {
+      "id": "qf-02-06",
+      "categoryEn": "Physics & Chemistry",
+      "categoryAr": "الفيزياء والكيمياء",
+      "textEn": "Diamonds and graphite are made of the exact same element: Carbon.",
+      "textAr": "الألماس والجرافيت يتكونان من نفس العنصر تمامًا: الكربون."
+    },
+    {
+      "id": "qf-02-07",
+      "categoryEn": "Physics & Chemistry",
+      "categoryAr": "الفيزياء والكيمياء",
+      "textEn": "Hot water freezes faster than cold water (Mpemba effect).",
+      "textAr": "الماء الساخن يتجمد أسرع من الماء البارد (تأثير مبيمبا)."
+    },
+    {
+      "id": "qf-02-08",
+      "categoryEn": "Physics & Chemistry",
+      "categoryAr": "الفيزياء والكيمياء",
+      "textEn": "A teaspoon of a neutron star would weigh 6 billion tons.",
+      "textAr": "ملعقة صغيرة من نجم نيوتروني تزن 6 مليارات طن."
+    },
+    {
+      "id": "qf-02-09",
+      "categoryEn": "Physics & Chemistry",
+      "categoryAr": "الفيزياء والكيمياء",
+      "textEn": "Stomach acid is strong enough to dissolve razor blades.",
+      "textAr": "حمض المعدة قوي بما يكفي لإذابة شفرات الحلاقة."
+    },
+    {
+      "id": "qf-02-10",
+      "categoryEn": "Physics & Chemistry",
+      "categoryAr": "الفيزياء والكيمياء",
+      "textEn": "Oxygen is pale blue in its liquid and solid forms.",
+      "textAr": "الأكسجين لونه أزرق باهت في حالتيه السائلة والصلبة."
+    },
+    {
+      "id": "qf-03-01",
+      "categoryEn": "Mathematics",
+      "categoryAr": "الرياضيات",
+      "textEn": "Zero is the only number that cannot be represented in Roman numerals.",
+      "textAr": "الصفر هو الرقم الوحيد الذي لا يمكن تمثيله بالأرقام الرومانية."
+    },
+    {
+      "id": "qf-03-02",
+      "categoryEn": "Mathematics",
+      "categoryAr": "الرياضيات",
+      "textEn": "The word \"hundred\" comes from the old Norse term \"hundrath\", which actually means 120.",
+      "textAr": "كلمة \"مائة\" بالإنجليزية تأتي من الكلمة الإسكندنافية القديمة \"hundrath\" والتي تعني في الواقع 120."
+    },
+    {
+      "id": "qf-03-03",
+      "categoryEn": "Mathematics",
+      "categoryAr": "الرياضيات",
+      "textEn": "A 'jiffy' is an actual mathematical unit of time (1/100th of a second).",
+      "textAr": "الـ \"جيفي\" هي وحدة زمنية رياضية حقيقية (جزء من مائة من الثانية)."
+    },
+    {
+      "id": "qf-03-04",
+      "categoryEn": "Mathematics",
+      "categoryAr": "الرياضيات",
+      "textEn": "If you shuffle a deck of cards properly, that exact order has likely never existed before.",
+      "textAr": "إذا قمت بخلط أوراق اللعب جيدًا، فمن المحتمل أن هذا الترتيب الدقيق لم يوجد من قبل أبدًا."
+    },
+    {
+      "id": "qf-03-05",
+      "categoryEn": "Mathematics",
+      "categoryAr": "الرياضيات",
+      "textEn": "The symbol for division (÷) is called an obelus.",
+      "textAr": "رمز القسمة (÷) يُسمى أوبيلوس."
+    },
+    {
+      "id": "qf-03-06",
+      "categoryEn": "Mathematics",
+      "categoryAr": "الرياضيات",
+      "textEn": "Every odd number has an \"e\" in it (in English).",
+      "textAr": "كل رقم فردي يحتوي على حرف \"e\" (في اللغة الإنجليزية)."
+    },
+    {
+      "id": "qf-03-07",
+      "categoryEn": "Mathematics",
+      "categoryAr": "الرياضيات",
+      "textEn": "A completely random string of the number Pi contains your phone number.",
+      "textAr": "سلسلة عشوائية تمامًا من رقم \"باي\" تحتوي على رقم هاتفك."
+    },
+    {
+      "id": "qf-03-08",
+      "categoryEn": "Mathematics",
+      "categoryAr": "الرياضيات",
+      "textEn": "Fibonacci numbers are frequently found in the petal arrangement of flowers.",
+      "textAr": "غالبًا ما توجد أرقام فيبوناتشي في ترتيب بتلات الزهور."
+    },
+    {
+      "id": "qf-03-09",
+      "categoryEn": "Mathematics",
+      "categoryAr": "الرياضيات",
+      "textEn": "The number 4 (four) is the only number with the same amount of letters as its value.",
+      "textAr": "الرقم 4 (four) هو الرقم الوحيد الذي يتساوى عدد حروفه مع قيمته."
+    },
+    {
+      "id": "qf-03-10",
+      "categoryEn": "Mathematics",
+      "categoryAr": "الرياضيات",
+      "textEn": "Thai people type \"555\" to laugh because 5 is pronounced \"ha\".",
+      "textAr": "التايلانديون يكتبون \"555\" للتعبير عن الضحك لأن الرقم 5 يُنطق \"ها\"."
+    },
+    {
+      "id": "qf-04-01",
+      "categoryEn": "World History",
+      "categoryAr": "التاريخ العالمي",
+      "textEn": "Oxford University is older than the Aztec Empire.",
+      "textAr": "جامعة أكسفورد أقدم من إمبراطورية الآزتيك."
+    },
+    {
+      "id": "qf-04-02",
+      "categoryEn": "World History",
+      "categoryAr": "التاريخ العالمي",
+      "textEn": "Cleopatra lived closer in time to the iPhone than to the Great Pyramid.",
+      "textAr": "عاشت كليوباترا في زمن أقرب لظهور الآيفون من بناء الهرم الأكبر."
+    },
+    {
+      "id": "qf-04-03",
+      "categoryEn": "World History",
+      "categoryAr": "التاريخ العالمي",
+      "textEn": "The shortest war in history lasted just 38 minutes (Anglo-Zanzibar War).",
+      "textAr": "أقصر حرب في التاريخ استمرت 38 دقيقة فقط (الحرب الإنجليزية الزنجبارية)."
+    },
+    {
+      "id": "qf-04-04",
+      "categoryEn": "World History",
+      "categoryAr": "التاريخ العالمي",
+      "textEn": "Woolly mammoths were still alive while the Egyptians were building the pyramids.",
+      "textAr": "الماموث الصوفي كان لا يزال حيًا بينما كان المصريون يبنون الأهرامات."
+    },
+    {
+      "id": "qf-04-05",
+      "categoryEn": "World History",
+      "categoryAr": "التاريخ العالمي",
+      "textEn": "Julius Caesar was once kidnapped by pirates and demanded they ask for a higher ransom.",
+      "textAr": "اختطف القراصنة يوليوس قيصر ذات مرة وطالبهم بطلب فدية أعلى."
+    },
+    {
+      "id": "qf-04-06",
+      "categoryEn": "World History",
+      "categoryAr": "التاريخ العالمي",
+      "textEn": "Alexander the Great was accidentally buried alive.",
+      "textAr": "دُفن الإسكندر الأكبر حيًا عن طريق الخطأ."
+    },
+    {
+      "id": "qf-04-07",
+      "categoryEn": "World History",
+      "categoryAr": "التاريخ العالمي",
+      "textEn": "The Great Wall of China is held together partly by sticky rice.",
+      "textAr": "سور الصين العظيم متماسك جزئيًا بفضل الأرز اللزج."
+    },
+    {
+      "id": "qf-04-08",
+      "categoryEn": "World History",
+      "categoryAr": "التاريخ العالمي",
+      "textEn": "In ancient Egypt, servants were smeared with honey to keep flies away from the pharaoh.",
+      "textAr": "في مصر القديمة، كان الخدم يُطلون بالعسل لإبعاد الذباب عن الفرعون."
+    },
+    {
+      "id": "qf-04-09",
+      "categoryEn": "World History",
+      "categoryAr": "التاريخ العالمي",
+      "textEn": "The Roman Colosseum was sometimes flooded to host naval battles.",
+      "textAr": "كان الكولوسيوم الروماني يُغمر بالماء أحيانًا لاستضافة معارك بحرية."
+    },
+    {
+      "id": "qf-04-10",
+      "categoryEn": "World History",
+      "categoryAr": "التاريخ العالمي",
+      "textEn": "Vikings used the bones of slain animals to forge stronger swords.",
+      "textAr": "استخدم الفايكنج عظام الحيوانات المذبوحة لصنع سيوف أقوى."
+    },
+    {
+      "id": "qf-05-01",
+      "categoryEn": "Geography",
+      "categoryAr": "الجغرافيا",
+      "textEn": "Russia spans 11 different time zones.",
+      "textAr": "تمتد روسيا عبر 11 منطقة زمنية مختلفة."
+    },
+    {
+      "id": "qf-05-02",
+      "categoryEn": "Geography",
+      "categoryAr": "الجغرافيا",
+      "textEn": "Mount Everest is still growing taller by about 4 millimeters every year.",
+      "textAr": "جبل إفرست لا يزال يزداد طولًا بحوالي 4 مليمترات كل عام."
+    },
+    {
+      "id": "qf-05-03",
+      "categoryEn": "Geography",
+      "categoryAr": "الجغرافيا",
+      "textEn": "Africa is the only continent that covers all four hemispheres.",
+      "textAr": "إفريقيا هي القارة الوحيدة التي تغطي نصفي الكرة الأرضية الأربعة."
+    },
+    {
+      "id": "qf-05-04",
+      "categoryEn": "Geography",
+      "categoryAr": "الجغرافيا",
+      "textEn": "Dead Sea is strictly not a sea, but a hypersaline lake.",
+      "textAr": "البحر الميت ليس بحرًا بالمعنى الدقيق، بل بحيرة شديدة الملوحة."
+    },
+    {
+      "id": "qf-05-05",
+      "categoryEn": "Geography",
+      "categoryAr": "الجغرافيا",
+      "textEn": "Canada has more lakes than the rest of the world combined.",
+      "textAr": "تمتلك كندا بحيرات أكثر من بقية دول العالم مجتمعة."
+    },
+    {
+      "id": "qf-05-06",
+      "categoryEn": "Geography",
+      "categoryAr": "الجغرافيا",
+      "textEn": "Antarctica is technically the largest desert on Earth.",
+      "textAr": "من الناحية الفنية، القارة القطبية الجنوبية هي أكبر صحراء على وجه الأرض."
+    },
+    {
+      "id": "qf-05-07",
+      "categoryEn": "Geography",
+      "categoryAr": "الجغرافيا",
+      "textEn": "The Pacific Ocean is shrinking, while the Atlantic is expanding.",
+      "textAr": "المحيط الهادئ يتقلص، بينما المحيط الأطلسي يتسع."
+    },
+    {
+      "id": "qf-05-08",
+      "categoryEn": "Geography",
+      "categoryAr": "الجغرافيا",
+      "textEn": "Istanbul is the only city in the world located on two continents.",
+      "textAr": "إسطنبول هي المدينة الوحيدة في العالم التي تقع في قارتين."
+    },
+    {
+      "id": "qf-05-09",
+      "categoryEn": "Geography",
+      "categoryAr": "الجغرافيا",
+      "textEn": "There are no rivers in Saudi Arabia.",
+      "textAr": "لا توجد أنهار في المملكة العربية السعودية."
+    },
+    {
+      "id": "qf-05-10",
+      "categoryEn": "Geography",
+      "categoryAr": "الجغرافيا",
+      "textEn": "Alaska is both the westernmost and easternmost state in the US.",
+      "textAr": "ألاسكا هي الولاية الواقعة في أقصى الغرب وأقصى الشرق في الولايات المتحدة."
+    },
+    {
+      "id": "qf-06-01",
+      "categoryEn": "Biology & Nature",
+      "categoryAr": "الأحياء والطبيعة",
+      "textEn": "DNA shares 50% of its structure with a banana.",
+      "textAr": "يتشارك الحمض النووي للإنسان بنسبة 50% من تركيبه مع الموز."
+    },
+    {
+      "id": "qf-06-02",
+      "categoryEn": "Biology & Nature",
+      "categoryAr": "الأحياء والطبيعة",
+      "textEn": "Mushrooms are genetically closer to humans than to plants.",
+      "textAr": "الفطر أقرب وراثيًا للإنسان منه إلى النباتات."
+    },
+    {
+      "id": "qf-06-03",
+      "categoryEn": "Biology & Nature",
+      "categoryAr": "الأحياء والطبيعة",
+      "textEn": "Honey never spoils; archaeologists found 3000-year-old edible honey in Egypt.",
+      "textAr": "العسل لا يفسد أبدًا؛ وجد علماء الآثار عسلًا صالحًا للأكل عمره 3000 عام في مصر."
+    },
+    {
+      "id": "qf-06-04",
+      "categoryEn": "Biology & Nature",
+      "categoryAr": "الأحياء والطبيعة",
+      "textEn": "Bamboo can grow up to 35 inches in a single day.",
+      "textAr": "يمكن أن ينمو الخيزران حتى 35 بوصة في يوم واحد."
+    },
+    {
+      "id": "qf-06-05",
+      "categoryEn": "Biology & Nature",
+      "categoryAr": "الأحياء والطبيعة",
+      "textEn": "Trees can communicate and share nutrients through underground fungal networks.",
+      "textAr": "تستطيع الأشجار التواصل ومشاركة العناصر الغذائية عبر شبكات فطرية تحت الأرض."
+    },
+    {
+      "id": "qf-06-06",
+      "categoryEn": "Biology & Nature",
+      "categoryAr": "الأحياء والطبيعة",
+      "textEn": "Strawberries are not actually berries, but bananas are.",
+      "textAr": "الفراولة ليست من التوتيات في الواقع، لكن الموز كذلك."
+    },
+    {
+      "id": "qf-06-07",
+      "categoryEn": "Biology & Nature",
+      "categoryAr": "الأحياء والطبيعة",
+      "textEn": "Apples float in water because they are 25% air.",
+      "textAr": "يطفو التفاح على الماء لأنه يتكون من 25% من الهواء."
+    },
+    {
+      "id": "qf-06-08",
+      "categoryEn": "Biology & Nature",
+      "categoryAr": "الأحياء والطبيعة",
+      "textEn": "The smell of freshly cut grass is actually a plant distress call.",
+      "textAr": "رائحة العشب المقصوص حديثًا هي في الواقع نداء استغاثة من النبات."
+    },
+    {
+      "id": "qf-06-09",
+      "categoryEn": "Biology & Nature",
+      "categoryAr": "الأحياء والطبيعة",
+      "textEn": "Sunflowers track the sun across the sky during the day.",
+      "textAr": "تتبع زهور عباد الشمس مسار الشمس في السماء خلال النهار."
+    },
+    {
+      "id": "qf-06-10",
+      "categoryEn": "Biology & Nature",
+      "categoryAr": "الأحياء والطبيعة",
+      "textEn": "Some species of pine trees need fire for their seeds to germinate.",
+      "textAr": "تحتاج بعض أنواع أشجار الصنوبر إلى النار حتى تنبت بذورها."
+    },
+    {
+      "id": "qf-07-01",
+      "categoryEn": "Animal Kingdom",
+      "categoryAr": "عالم الحيوان",
+      "textEn": "Octopuses have three hearts and blue blood.",
+      "textAr": "الأخطبوط لديه ثلاثة قلوب ودم أزرق."
+    },
+    {
+      "id": "qf-07-02",
+      "categoryEn": "Animal Kingdom",
+      "categoryAr": "عالم الحيوان",
+      "textEn": "Crows can remember individual human faces.",
+      "textAr": "يمكن للغربان أن تتذكر وجوه البشر الفردية."
+    },
+    {
+      "id": "qf-07-03",
+      "categoryEn": "Animal Kingdom",
+      "categoryAr": "عالم الحيوان",
+      "textEn": "A shrimp's heart is located in its head.",
+      "textAr": "يقع قلب الجمبري (الروبيان) في رأسه."
+    },
+    {
+      "id": "qf-07-04",
+      "categoryEn": "Animal Kingdom",
+      "categoryAr": "عالم الحيوان",
+      "textEn": "Wombat feces are cube-shaped to stop them from rolling away.",
+      "textAr": "فضلات حيوان الومبت مكعبة الشكل لمنعها من التدحرج."
+    },
+    {
+      "id": "qf-07-05",
+      "categoryEn": "Animal Kingdom",
+      "categoryAr": "عالم الحيوان",
+      "textEn": "Sloths can hold their breath longer than dolphins can.",
+      "textAr": "يمكن لحيوان الكسلان حبس أنفاسه لفترة أطول من الدلافين."
+    },
+    {
+      "id": "qf-07-06",
+      "categoryEn": "Animal Kingdom",
+      "categoryAr": "عالم الحيوان",
+      "textEn": "Tigers have striped skin, not just striped fur.",
+      "textAr": "للنمور جلد مخطط، وليس مجرد فراء مخطط."
+    },
+    {
+      "id": "qf-07-07",
+      "categoryEn": "Animal Kingdom",
+      "categoryAr": "عالم الحيوان",
+      "textEn": "Cows have best friends and get stressed when separated.",
+      "textAr": "الأبقار لديها أصدقاء مفضلون وتصاب بالتوتر عند الانفصال عنهم."
+    },
+    {
+      "id": "qf-07-08",
+      "categoryEn": "Animal Kingdom",
+      "categoryAr": "عالم الحيوان",
+      "textEn": "Butterflies taste with their feet.",
+      "textAr": "الفراشات تتذوق بأقدامها."
+    },
+    {
+      "id": "qf-07-09",
+      "categoryEn": "Animal Kingdom",
+      "categoryAr": "عالم الحيوان",
+      "textEn": "Elephants are the only animals that cannot jump.",
+      "textAr": "الفيلة هي الحيوانات الوحيدة التي لا تستطيع القفز."
+    },
+    {
+      "id": "qf-07-10",
+      "categoryEn": "Animal Kingdom",
+      "categoryAr": "عالم الحيوان",
+      "textEn": "A group of flamingos is called a \"flamboyance\".",
+      "textAr": "يُطلق على مجموعة طيور النحام اسم \"التوهج\" (Flamboyance)."
+    },
+    {
+      "id": "qf-08-01",
+      "categoryEn": "Human Body",
+      "categoryAr": "جسم الإنسان",
+      "textEn": "You are about 1 centimeter taller in the morning than in the evening.",
+      "textAr": "أنت أطول بحوالي سنتيمتر واحد في الصباح مقارنة بالمساء."
+    },
+    {
+      "id": "qf-08-02",
+      "categoryEn": "Human Body",
+      "categoryAr": "جسم الإنسان",
+      "textEn": "The human eye can distinguish over 10 million different colors.",
+      "textAr": "يمكن للعين البشرية التمييز بين أكثر من 10 ملايين لون مختلف."
+    },
+    {
+      "id": "qf-08-03",
+      "categoryEn": "Human Body",
+      "categoryAr": "جسم الإنسان",
+      "textEn": "Your bones are ounce-for-ounce stronger than steel.",
+      "textAr": "عظامك أقوى من الفولاذ عند مقارنة الوزن بالوزن."
+    },
+    {
+      "id": "qf-08-04",
+      "categoryEn": "Human Body",
+      "categoryAr": "جسم الإنسان",
+      "textEn": "Fingernails grow almost four times faster than toenails.",
+      "textAr": "تنمو أظافر اليدين أسرع بأربع مرات تقريبًا من أظافر القدمين."
+    },
+    {
+      "id": "qf-08-05",
+      "categoryEn": "Human Body",
+      "categoryAr": "جسم الإنسان",
+      "textEn": "The human brain uses 20% of the body's oxygen and energy.",
+      "textAr": "يستهلك الدماغ البشري 20% من أكسجين وطاقة الجسم."
+    },
+    {
+      "id": "qf-08-06",
+      "categoryEn": "Human Body",
+      "categoryAr": "جسم الإنسان",
+      "textEn": "You cannot breathe and swallow at the exact same time.",
+      "textAr": "لا يمكنك التنفس والبلع في نفس الوقت تمامًا."
+    },
+    {
+      "id": "qf-08-07",
+      "categoryEn": "Human Body",
+      "categoryAr": "جسم الإنسان",
+      "textEn": "Your nose and ears never stop growing.",
+      "textAr": "أنفك وأذناك لا يتوقفان عن النمو أبدًا."
+    },
+    {
+      "id": "qf-08-08",
+      "categoryEn": "Human Body",
+      "categoryAr": "جسم الإنسان",
+      "textEn": "Humans shed about 600,000 particles of skin every hour.",
+      "textAr": "يتساقط من البشر حوالي 600 ألف جزيء من الجلد كل ساعة."
+    },
+    {
+      "id": "qf-08-09",
+      "categoryEn": "Human Body",
+      "categoryAr": "جسم الإنسان",
+      "textEn": "A human smile can be recognized from up to 300 feet away.",
+      "textAr": "يمكن التعرف على ابتسامة الإنسان من مسافة تصل إلى 300 قدم."
+    },
+    {
+      "id": "qf-08-10",
+      "categoryEn": "Human Body",
+      "categoryAr": "جسم الإنسان",
+      "textEn": "Humans are the only animals that produce tears of emotion.",
+      "textAr": "البشر هم الحيوانات الوحيدة التي تذرف دموعًا ناتجة عن المشاعر."
+    },
+    {
+      "id": "qf-09-01",
+      "categoryEn": "Psychology",
+      "categoryAr": "علم النفس",
+      "textEn": "Sarcasm is shown to boost creativity in the brain.",
+      "textAr": "ثبت أن السخرية تعزز الإبداع في الدماغ."
+    },
+    {
+      "id": "qf-09-02",
+      "categoryEn": "Psychology",
+      "categoryAr": "علم النفس",
+      "textEn": "People who speak two languages can unconsciously change their personalities when switching languages.",
+      "textAr": "يمكن للأشخاص الذين يتحدثون لغتين تغيير شخصياتهم لا شعوريًا عند التبديل بين اللغات."
+    },
+    {
+      "id": "qf-09-03",
+      "categoryEn": "Psychology",
+      "categoryAr": "علم النفس",
+      "textEn": "The brain treats rejection like physical pain.",
+      "textAr": "يعامل الدماغ الرفض مثل الألم الجسدي."
+    },
+    {
+      "id": "qf-09-04",
+      "categoryEn": "Psychology",
+      "categoryAr": "علم النفس",
+      "textEn": "Memories get slightly distorted every time you remember them.",
+      "textAr": "تتشوه الذكريات قليلًا في كل مرة تتذكرها فيها."
+    },
+    {
+      "id": "qf-09-05",
+      "categoryEn": "Psychology",
+      "categoryAr": "علم النفس",
+      "textEn": "Music can physically change your brain structure over time.",
+      "textAr": "يمكن للموسيقى أن تغير بنية دماغك جسديًا بمرور الوقت."
+    },
+    {
+      "id": "qf-09-06",
+      "categoryEn": "Psychology",
+      "categoryAr": "علم النفس",
+      "textEn": "People are more honest when they are physically tired.",
+      "textAr": "يكون الناس أكثر صدقًا عندما يكونون متعبين جسديًا."
+    },
+    {
+      "id": "qf-09-07",
+      "categoryEn": "Psychology",
+      "categoryAr": "علم النفس",
+      "textEn": "Singing reduces feelings of depression and anxiety.",
+      "textAr": "الغناء يقلل من مشاعر الاكتئاب والقلق."
+    },
+    {
+      "id": "qf-09-08",
+      "categoryEn": "Psychology",
+      "categoryAr": "علم النفس",
+      "textEn": "If you announce your goals to others, you are less likely to succeed.",
+      "textAr": "إذا أعلنت أهدافك للآخرين، تقل احتمالية نجاحك في تحقيقها."
+    },
+    {
+      "id": "qf-09-09",
+      "categoryEn": "Psychology",
+      "categoryAr": "علم النفس",
+      "textEn": "Your mind wanders for about 30% of your waking hours.",
+      "textAr": "يشرد ذهنك لحوالي 30% من ساعات استيقاظك."
+    },
+    {
+      "id": "qf-09-10",
+      "categoryEn": "Psychology",
+      "categoryAr": "علم النفس",
+      "textEn": "The placebo effect can work even if you know it is a placebo.",
+      "textAr": "يمكن أن ينجح تأثير الدواء الوهمي (البلاسيبو) حتى لو كنت تعلم أنه وهمي."
+    },
+    {
+      "id": "qf-10-01",
+      "categoryEn": "Philosophy & Ethics",
+      "categoryAr": "الفلسفة والأخلاق",
+      "textEn": "The famous \"Trolley Problem\" was invented by philosopher Philippa Foot in 1967.",
+      "textAr": "مشكلة \"عربة الترام\" الشهيرة ابتكرتها الفيلسوفة فيليبا فوت عام 1967."
+    },
+    {
+      "id": "qf-10-02",
+      "categoryEn": "Philosophy & Ethics",
+      "categoryAr": "الفلسفة والأخلاق",
+      "textEn": "Diogenes, an ancient Greek philosopher, lived in a large ceramic jar in the market.",
+      "textAr": "ديوجين، الفيلسوف اليوناني القديم، عاش في جرة خزفية كبيرة في السوق."
+    },
+    {
+      "id": "qf-10-03",
+      "categoryEn": "Philosophy & Ethics",
+      "categoryAr": "الفلسفة والأخلاق",
+      "textEn": "Nihilism comes from the Latin word 'nihil', meaning 'nothing'.",
+      "textAr": "تأتي العدمية من الكلمة اللاتينية \"nihil\" والتي تعني \"لا شيء\"."
+    },
+    {
+      "id": "qf-10-04",
+      "categoryEn": "Philosophy & Ethics",
+      "categoryAr": "الفلسفة والأخلاق",
+      "textEn": "Socrates never wrote down any of his teachings; we only know them through Plato.",
+      "textAr": "لم يكتب سقراط أيًا من تعاليمه؛ نحن نعرفها فقط من خلال أفلاطون."
+    },
+    {
+      "id": "qf-10-05",
+      "categoryEn": "Philosophy & Ethics",
+      "categoryAr": "الفلسفة والأخلاق",
+      "textEn": "René Descartes' famous quote \"I think, therefore I am\" was originally written in French, not Latin.",
+      "textAr": "المقولة الشهيرة لرينيه ديكارت \"أنا أفكر، إذن أنا موجود\" كُتبت أصلًا بالفرنسية، وليس اللاتينية."
+    },
+    {
+      "id": "qf-10-06",
+      "categoryEn": "Philosophy & Ethics",
+      "categoryAr": "الفلسفة والأخلاق",
+      "textEn": "Utilitarianism argues the best action is the one that maximizes overall happiness.",
+      "textAr": "تجادل النفعية بأن أفضل فعل هو الذي يزيد السعادة العامة إلى أقصى حد."
+    },
+    {
+      "id": "qf-10-07",
+      "categoryEn": "Philosophy & Ethics",
+      "categoryAr": "الفلسفة والأخلاق",
+      "textEn": "Immanuel Kant believed lying is fundamentally wrong, even to save a life.",
+      "textAr": "اعتقد إيمانويل كانط أن الكذب خاطئ جوهريًا، حتى لو كان لإنقاذ حياة."
+    },
+    {
+      "id": "qf-10-08",
+      "categoryEn": "Philosophy & Ethics",
+      "categoryAr": "الفلسفة والأخلاق",
+      "textEn": "The concept of 'Karma' originated in ancient India.",
+      "textAr": "نشأ مفهوم \"الكارما\" في الهند القديمة."
+    },
+    {
+      "id": "qf-10-09",
+      "categoryEn": "Philosophy & Ethics",
+      "categoryAr": "الفلسفة والأخلاق",
+      "textEn": "Occam's Razor suggests the simplest explanation is usually the correct one.",
+      "textAr": "يشير \"نصل أوكام\" إلى أن التفسير الأبسط هو عادة التفسير الصحيح."
+    },
+    {
+      "id": "qf-10-10",
+      "categoryEn": "Philosophy & Ethics",
+      "categoryAr": "الفلسفة والأخلاق",
+      "textEn": "Aristotle believed the heart was the center of intelligence, not the brain.",
+      "textAr": "اعتقد أرسطو أن القلب هو مركز الذكاء وليس الدماغ."
+    },
+    {
+      "id": "qf-11-01",
+      "categoryEn": "Art & Architecture",
+      "categoryAr": "الفن والعمارة",
+      "textEn": "The Mona Lisa has no visible eyebrows or eyelashes.",
+      "textAr": "لوحة الموناليزا ليس لها حواجب أو رموش ظاهرة."
+    },
+    {
+      "id": "qf-11-02",
+      "categoryEn": "Art & Architecture",
+      "categoryAr": "الفن والعمارة",
+      "textEn": "The Eiffel Tower grows by up to 15 centimeters in the summer due to thermal expansion.",
+      "textAr": "ينمو برج إيفل بمقدار يصل إلى 15 سم في الصيف بسبب التمدد الحراري."
+    },
+    {
+      "id": "qf-11-03",
+      "categoryEn": "Art & Architecture",
+      "categoryAr": "الفن والعمارة",
+      "textEn": "Vincent Van Gogh only sold one painting during his lifetime.",
+      "textAr": "باع فينسنت فان جوخ لوحة واحدة فقط خلال حياته."
+    },
+    {
+      "id": "qf-11-04",
+      "categoryEn": "Art & Architecture",
+      "categoryAr": "الفن والعمارة",
+      "textEn": "The Great Pyramid of Giza was originally covered in highly polished white limestone.",
+      "textAr": "كان الهرم الأكبر بالجيزة مغطى في الأصل بحجر جيري أبيض شديد اللمعان."
+    },
+    {
+      "id": "qf-11-05",
+      "categoryEn": "Art & Architecture",
+      "categoryAr": "الفن والعمارة",
+      "textEn": "Picasso could draw beautifully realistic portraits before he turned 15.",
+      "textAr": "كان بيكاسو قادرًا على رسم صور شخصية واقعية بشكل جميل قبل بلوغه سن الخامسة عشرة."
+    },
+    {
+      "id": "qf-11-06",
+      "categoryEn": "Art & Architecture",
+      "categoryAr": "الفن والعمارة",
+      "textEn": "The Taj Mahal changes color depending on the time of day.",
+      "textAr": "يتغير لون تاج محل حسب وقت النهار."
+    },
+    {
+      "id": "qf-11-07",
+      "categoryEn": "Art & Architecture",
+      "categoryAr": "الفن والعمارة",
+      "textEn": "Leonardo da Vinci could write with one hand and draw with the other simultaneously.",
+      "textAr": "كان ليوناردو دافنشي قادرًا على الكتابة بيد والرسم باليد الأخرى في نفس الوقت."
+    },
+    {
+      "id": "qf-11-08",
+      "categoryEn": "Art & Architecture",
+      "categoryAr": "الفن والعمارة",
+      "textEn": "Statues in ancient Rome and Greece were originally painted in bright, vibrant colors.",
+      "textAr": "التماثيل في روما واليونان القديمة كانت ملونة في الأصل بألوان زاهية ونابضة بالحياة."
+    },
+    {
+      "id": "qf-11-09",
+      "categoryEn": "Art & Architecture",
+      "categoryAr": "الفن والعمارة",
+      "textEn": "The Empire State Building has its own zip code.",
+      "textAr": "يمتلك مبنى إمباير ستيت رمزًا بريديًا خاصًا به."
+    },
+    {
+      "id": "qf-11-10",
+      "categoryEn": "Art & Architecture",
+      "categoryAr": "الفن والعمارة",
+      "textEn": "Bob Ross painted over 30,000 paintings in his lifetime.",
+      "textAr": "رسم بوب روس أكثر من 30 ألف لوحة خلال حياته."
+    },
+    {
+      "id": "qf-12-01",
+      "categoryEn": "Literature & Language",
+      "categoryAr": "الأدب واللغات",
+      "textEn": "The word \"alphabet\" comes from the first two letters of the Greek alphabet: Alpha and Beta.",
+      "textAr": "كلمة \"ألفباء\" بالإنجليزية تأتي من أول حرفين في الأبجدية اليونانية: ألفا وبيتا."
+    },
+    {
+      "id": "qf-12-02",
+      "categoryEn": "Literature & Language",
+      "categoryAr": "الأدب واللغات",
+      "textEn": "William Shakespeare invented over 1,700 words still used in English today.",
+      "textAr": "اخترع ويليام شكسبير أكثر من 1700 كلمة لا تزال تستخدم في الإنجليزية حتى اليوم."
+    },
+    {
+      "id": "qf-12-03",
+      "categoryEn": "Literature & Language",
+      "categoryAr": "الأدب واللغات",
+      "textEn": "The longest word in the dictionary has 45 letters (Pneumonoultramicroscopicsilicovolcanoconiosis).",
+      "textAr": "أطول كلمة في القاموس الإنجليزي تتكون من 45 حرفًا."
+    },
+    {
+      "id": "qf-12-04",
+      "categoryEn": "Literature & Language",
+      "categoryAr": "الأدب واللغات",
+      "textEn": "J.R.R. Tolkien typed the entire \"Lord of the Rings\" trilogy using just two fingers.",
+      "textAr": "طبع جيه.آر.آر تولكين ثلاثية \"سيد الخواتم\" بأكملها باستخدام إصبعين فقط."
+    },
+    {
+      "id": "qf-12-05",
+      "categoryEn": "Literature & Language",
+      "categoryAr": "الأدب واللغات",
+      "textEn": "Arabic is written from right to left, but numbers are read from left to right.",
+      "textAr": "تُكتب اللغة العربية من اليمين إلى اليسار، لكن الأرقام تُقرأ من اليسار إلى اليمين."
+    },
+    {
+      "id": "qf-12-06",
+      "categoryEn": "Literature & Language",
+      "categoryAr": "الأدب واللغات",
+      "textEn": "Agatha Christie is the best-selling fiction author of all time.",
+      "textAr": "أجاثا كريستي هي المؤلفة الروائية الأكثر مبيعًا على الإطلاق."
+    },
+    {
+      "id": "qf-12-07",
+      "categoryEn": "Literature & Language",
+      "categoryAr": "الأدب واللغات",
+      "textEn": "The first novel ever written is believed to be \"The Tale of Genji\" from 11th century Japan.",
+      "textAr": "يُعتقد أن أول رواية كُتبت على الإطلاق هي \"قصة جينجي\" من اليابان في القرن الحادي عشر."
+    },
+    {
+      "id": "qf-12-08",
+      "categoryEn": "Literature & Language",
+      "categoryAr": "الأدب واللغات",
+      "textEn": "\"E\" is the most commonly used letter in the English language.",
+      "textAr": "حرف \"E\" هو الحرف الأكثر استخدامًا في اللغة الإنجليزية."
+    },
+    {
+      "id": "qf-12-09",
+      "categoryEn": "Literature & Language",
+      "categoryAr": "الأدب واللغات",
+      "textEn": "There are over 7,000 languages spoken in the world today.",
+      "textAr": "يوجد أكثر من 7000 لغة يتم التحدث بها في العالم اليوم."
+    },
+    {
+      "id": "qf-12-10",
+      "categoryEn": "Literature & Language",
+      "categoryAr": "الأدب واللغات",
+      "textEn": "Frankenstein was written by Mary Shelley when she was only 18 years old.",
+      "textAr": "كُتبت رواية فرانكنشتاين بقلم ماري شيلي عندما كانت تبلغ من العمر 18 عامًا فقط."
+    },
+    {
+      "id": "qf-13-01",
+      "categoryEn": "Music",
+      "categoryAr": "الموسيقى",
+      "textEn": "Your heartbeat syncs to the rhythm of the music you are listening to.",
+      "textAr": "يتزامن نبض قلبك مع إيقاع الموسيقى التي تستمع إليها."
+    },
+    {
+      "id": "qf-13-02",
+      "categoryEn": "Music",
+      "categoryAr": "الموسيقى",
+      "textEn": "Leo Fender, the inventor of the Telecaster and Stratocaster, could not play the guitar.",
+      "textAr": "ليو فيندر، مخترع جيتارات تليكاستر وستراتوكاستر، لم يكن يعزف على الجيتار."
+    },
+    {
+      "id": "qf-13-03",
+      "categoryEn": "Music",
+      "categoryAr": "الموسيقى",
+      "textEn": "Mozart composed his first piece of music when he was five years old.",
+      "textAr": "لحن موتسارت أول مقطوعة موسيقية له عندما كان في الخامسة من عمره."
+    },
+    {
+      "id": "qf-13-04",
+      "categoryEn": "Music",
+      "categoryAr": "الموسيقى",
+      "textEn": "Plants grow faster and healthier if they 'listen' to classical music.",
+      "textAr": "تنمو النباتات بشكل أسرع وأكثر صحة إذا \"استمعت\" للموسيقى الكلاسيكية."
+    },
+    {
+      "id": "qf-13-05",
+      "categoryEn": "Music",
+      "categoryAr": "الموسيقى",
+      "textEn": "The Beatles used to be called \"The Quarrymen\".",
+      "textAr": "كانت فرقة البيتلز تُسمى سابقًا \"ذا كواريمن\"."
+    },
+    {
+      "id": "qf-13-06",
+      "categoryEn": "Music",
+      "categoryAr": "الموسيقى",
+      "textEn": "Metallica is the only band to perform on all seven continents, including Antarctica.",
+      "textAr": "ميتاليكا هي الفرقة الوحيدة التي قدمت عروضًا في القارات السبع، بما في ذلك القارة القطبية الجنوبية."
+    },
+    {
+      "id": "qf-13-07",
+      "categoryEn": "Music",
+      "categoryAr": "الموسيقى",
+      "textEn": "Eminem's \"Rap God\" holds the world record for the most words in a hit single.",
+      "textAr": "أغنية إيمينيم \"Rap God\" تحمل الرقم القياسي العالمي لأكبر عدد من الكلمات في أغنية ناجحة."
+    },
+    {
+      "id": "qf-13-08",
+      "categoryEn": "Music",
+      "categoryAr": "الموسيقى",
+      "textEn": "Beethoven was completely deaf when he composed his famous Ninth Symphony.",
+      "textAr": "كان بيتهوفن أصمًا تمامًا عندما لحن سيمفونيته التاسعة الشهيرة."
+    },
+    {
+      "id": "qf-13-09",
+      "categoryEn": "Music",
+      "categoryAr": "الموسيقى",
+      "textEn": "Sound travels around four times faster in water than in air.",
+      "textAr": "ينتقل الصوت عبر الماء أسرع بأربع مرات تقريبًا من انتقاله في الهواء."
+    },
+    {
+      "id": "qf-13-10",
+      "categoryEn": "Music",
+      "categoryAr": "الموسيقى",
+      "textEn": "The world's oldest known musical instrument is a 60,000-year-old Neanderthal flute.",
+      "textAr": "أقدم آلة موسيقية معروفة في العالم هي مزمار نياندرتال عمره 60 ألف عام."
+    },
+    {
+      "id": "qf-14-01",
+      "categoryEn": "Pop Culture & Movies",
+      "categoryAr": "الثقافة الشعبية والأفلام",
+      "textEn": "\"Video Killed the Radio Star\" was the very first music video played on MTV.",
+      "textAr": "أغنية \"Video Killed the Radio Star\" كانت أول فيديو موسيقي يُعرض على قناة MTV."
+    },
+    {
+      "id": "qf-14-02",
+      "categoryEn": "Pop Culture & Movies",
+      "categoryAr": "الثقافة الشعبية والأفلام",
+      "textEn": "Super Mario hits blocks with his fist, not his head.",
+      "textAr": "سوبر ماريو يضرب المربعات بقبضته، وليس برأسه."
+    },
+    {
+      "id": "qf-14-03",
+      "categoryEn": "Pop Culture & Movies",
+      "categoryAr": "الثقافة الشعبية والأفلام",
+      "textEn": "The movie \"E.T.\" was originally planned to be a horror movie.",
+      "textAr": "فيلم \"إي تي\" كان مخططًا له في الأصل أن يكون فيلم رعب."
+    },
+    {
+      "id": "qf-14-04",
+      "categoryEn": "Pop Culture & Movies",
+      "categoryAr": "الثقافة الشعبية والأفلام",
+      "textEn": "Darth Vader's breathing sound was created using a scuba regulator.",
+      "textAr": "تم ابتكار صوت تنفس دارث فيدر باستخدام منظم هواء للغوص."
+    },
+    {
+      "id": "qf-14-05",
+      "categoryEn": "Pop Culture & Movies",
+      "categoryAr": "الثقافة الشعبية والأفلام",
+      "textEn": "Walt Disney was famously afraid of mice.",
+      "textAr": "كان والت ديزني يخاف بشدة من الفئران."
+    },
+    {
+      "id": "qf-14-06",
+      "categoryEn": "Pop Culture & Movies",
+      "categoryAr": "الثقافة الشعبية والأفلام",
+      "textEn": "The code dropping in \"The Matrix\" is actually just Japanese sushi recipes.",
+      "textAr": "الرموز المتساقطة في فيلم \"ذا ماتريكس\" هي في الحقيقة مجرد وصفات سوشي يابانية."
+    },
+    {
+      "id": "qf-14-07",
+      "categoryEn": "Pop Culture & Movies",
+      "categoryAr": "الثقافة الشعبية والأفلام",
+      "textEn": "The original name for Pac-Man was Puck-Man.",
+      "textAr": "الاسم الأصلي للعبة باك مان كان \"باك-مان\" (Puck-Man)."
+    },
+    {
+      "id": "qf-14-08",
+      "categoryEn": "Pop Culture & Movies",
+      "categoryAr": "الثقافة الشعبية والأفلام",
+      "textEn": "Michael Jackson tried to buy Marvel Comics just so he could play Spider-Man.",
+      "textAr": "حاول مايكل جاكسون شراء شركة مارفل كوميكس فقط ليتمكن من لعب دور الرجل العنكبوت."
+    },
+    {
+      "id": "qf-14-09",
+      "categoryEn": "Pop Culture & Movies",
+      "categoryAr": "الثقافة الشعبية والأفلام",
+      "textEn": "Shrek's name comes from the Yiddish word for \"fear\" or \"terror\".",
+      "textAr": "اسم شريك يأتي من الكلمة اليديشية التي تعني \"الخوف\" أو \"الرعب\"."
+    },
+    {
+      "id": "qf-14-10",
+      "categoryEn": "Pop Culture & Movies",
+      "categoryAr": "الثقافة الشعبية والأفلام",
+      "textEn": "Tom and Jerry were originally named Jasper and Jinx.",
+      "textAr": "توم وجيري كان اسماهما في الأصل جاسبر وجينكس."
+    },
+    {
+      "id": "qf-15-01",
+      "categoryEn": "Inventions & Technology",
+      "categoryAr": "الاختراعات والتكنولوجيا",
+      "textEn": "The lighter was invented before the modern matchstick.",
+      "textAr": "تم اختراع الولاعة قبل عود الثقاب الحديث."
+    },
+    {
+      "id": "qf-15-02",
+      "categoryEn": "Inventions & Technology",
+      "categoryAr": "الاختراعات والتكنولوجيا",
+      "textEn": "The first computer mouse was made entirely of wood.",
+      "textAr": "أول فأرة كمبيوتر كانت مصنوعة بالكامل من الخشب."
+    },
+    {
+      "id": "qf-15-03",
+      "categoryEn": "Inventions & Technology",
+      "categoryAr": "الاختراعات والتكنولوجيا",
+      "textEn": "Nintendo was founded in 1889 as a playing card company.",
+      "textAr": "تأسست شركة نينتندو عام 1889 كشركة لصنع أوراق اللعب."
+    },
+    {
+      "id": "qf-15-04",
+      "categoryEn": "Inventions & Technology",
+      "categoryAr": "الاختراعات والتكنولوجيا",
+      "textEn": "The password for the computer controls of nuclear missiles of the US was 00000000 for eight years.",
+      "textAr": "كانت كلمة المرور لأجهزة الكمبيوتر التي تتحكم في الصواريخ النووية الأمريكية 00000000 لمدة ثماني سنوات."
+    },
+    {
+      "id": "qf-15-05",
+      "categoryEn": "Inventions & Technology",
+      "categoryAr": "الاختراعات والتكنولوجيا",
+      "textEn": "Google was originally named \"BackRub\".",
+      "textAr": "كان اسم جوجل في البداية \"BackRub\"."
+    },
+    {
+      "id": "qf-15-06",
+      "categoryEn": "Inventions & Technology",
+      "categoryAr": "الاختراعات والتكنولوجيا",
+      "textEn": "Email was invented before the World Wide Web.",
+      "textAr": "تم اختراع البريد الإلكتروني قبل شبكة الويب العالمية (الإنترنت)."
+    },
+    {
+      "id": "qf-15-07",
+      "categoryEn": "Inventions & Technology",
+      "categoryAr": "الاختراعات والتكنولوجيا",
+      "textEn": "The first camera required the subject to sit completely still for 8 hours.",
+      "textAr": "أول كاميرا كانت تتطلب من الشخص الجلوس بثبات تام لمدة 8 ساعات لتلتقط صورته."
+    },
+    {
+      "id": "qf-15-08",
+      "categoryEn": "Inventions & Technology",
+      "categoryAr": "الاختراعات والتكنولوجيا",
+      "textEn": "There is enough gold inside Earth to coat the entire planet.",
+      "textAr": "يوجد ذهب كافٍ داخل الأرض لطلاء الكوكب بأكمله."
+    },
+    {
+      "id": "qf-15-09",
+      "categoryEn": "Inventions & Technology",
+      "categoryAr": "الاختراعات والتكنولوجيا",
+      "textEn": "High heels were originally worn by Persian male soldiers in the 10th century.",
+      "textAr": "كان الجنود الفرس يرتدون الكعب العالي في الأصل في القرن العاشر."
+    },
+    {
+      "id": "qf-15-10",
+      "categoryEn": "Inventions & Technology",
+      "categoryAr": "الاختراعات والتكنولوجيا",
+      "textEn": "The QWERTY keyboard layout was designed to slow down typing to prevent mechanical jams.",
+      "textAr": "تم تصميم تخطيط لوحة المفاتيح \"QWERTY\" لإبطاء الكتابة لمنع التشابك الميكانيكي في الآلات الكاتبة."
+    },
+    {
+      "id": "qf-16-01",
+      "categoryEn": "Food & Culinary History",
+      "categoryAr": "الطعام وتاريخ الطهي",
+      "textEn": "Ketchup was sold in the 1830s as medicine.",
+      "textAr": "تم بيع الكاتشب في ثلاثينيات القرن التاسع عشر كدواء."
+    },
+    {
+      "id": "qf-16-02",
+      "categoryEn": "Food & Culinary History",
+      "categoryAr": "الطعام وتاريخ الطهي",
+      "textEn": "Peanuts are not nuts; they are legumes.",
+      "textAr": "الفول السوداني ليس من المكسرات، بل من البقوليات."
+    },
+    {
+      "id": "qf-16-03",
+      "categoryEn": "Food & Culinary History",
+      "categoryAr": "الطعام وتاريخ الطهي",
+      "textEn": "White chocolate does not contain any cocoa solids.",
+      "textAr": "الشوكولاتة البيضاء لا تحتوي على أي مواد صلبة من الكاكاو."
+    },
+    {
+      "id": "qf-16-04",
+      "categoryEn": "Food & Culinary History",
+      "categoryAr": "الطعام وتاريخ الطهي",
+      "textEn": "Pound cake got its name because the original recipe required a pound of each ingredient.",
+      "textAr": "سُميت كعكة الباوند بهذا الاسم لأن الوصفة الأصلية كانت تتطلب باوندًا من كل مكون."
+    },
+    {
+      "id": "qf-16-05",
+      "categoryEn": "Food & Culinary History",
+      "categoryAr": "الطعام وتاريخ الطهي",
+      "textEn": "Carrots were originally purple, not orange.",
+      "textAr": "كان الجزر في الأصل أرجواني اللون، وليس برتقاليًا."
+    },
+    {
+      "id": "qf-16-06",
+      "categoryEn": "Food & Culinary History",
+      "categoryAr": "الطعام وتاريخ الطهي",
+      "textEn": "Apples are part of the rose family.",
+      "textAr": "التفاح ينتمي إلى العائلة الوردية."
+    },
+    {
+      "id": "qf-16-07",
+      "categoryEn": "Food & Culinary History",
+      "categoryAr": "الطعام وتاريخ الطهي",
+      "textEn": "French fries originated in Belgium, not France.",
+      "textAr": "البطاطس المقلية (الفرينش فرايز) نشأت في بلجيكا، وليس فرنسا."
+    },
+    {
+      "id": "qf-16-08",
+      "categoryEn": "Food & Culinary History",
+      "categoryAr": "الطعام وتاريخ الطهي",
+      "textEn": "Nutmeg is extremely poisonous if injected intravenously.",
+      "textAr": "جوزة الطيب سامة للغاية إذا تم حقنها عن طريق الوريد."
+    },
+    {
+      "id": "qf-16-09",
+      "categoryEn": "Food & Culinary History",
+      "categoryAr": "الطعام وتاريخ الطهي",
+      "textEn": "McDonald's once created bubblegum-flavored broccoli.",
+      "textAr": "ابتكرت ماكدونالدز ذات مرة بروكلي بنكهة العلكة."
+    },
+    {
+      "id": "qf-16-10",
+      "categoryEn": "Food & Culinary History",
+      "categoryAr": "الطعام وتاريخ الطهي",
+      "textEn": "SPAM stands for \"Spiced Ham\".",
+      "textAr": "كلمة سبام (SPAM) هي اختصار لـ \"لحم الخنزير المتبل\"."
+    },
+    {
+      "id": "qf-17-01",
+      "categoryEn": "Sports & Physical Feats",
+      "categoryAr": "الرياضة والإنجازات البدنية",
+      "textEn": "Golf is the only sport to have been played on the moon.",
+      "textAr": "الجولف هي الرياضة الوحيدة التي تم لعبها على سطح القمر."
+    },
+    {
+      "id": "qf-17-02",
+      "categoryEn": "Sports & Physical Feats",
+      "categoryAr": "الرياضة والإنجازات البدنية",
+      "textEn": "The longest tennis match in history took 11 hours and 5 minutes.",
+      "textAr": "أطول مباراة تنس في التاريخ استغرقت 11 ساعة و 5 دقائق."
+    },
+    {
+      "id": "qf-17-03",
+      "categoryEn": "Sports & Physical Feats",
+      "categoryAr": "الرياضة والإنجازات البدنية",
+      "textEn": "Olympic gold medals are actually made mostly of silver.",
+      "textAr": "الميداليات الذهبية الأولمبية مصنوعة في الواقع من الفضة بشكل أساسي."
+    },
+    {
+      "id": "qf-17-04",
+      "categoryEn": "Sports & Physical Feats",
+      "categoryAr": "الرياضة والإنجازات البدنية",
+      "textEn": "Basketball was originally played with a soccer ball.",
+      "textAr": "كانت كرة السلة تُلعب في الأصل بكرة قدم."
+    },
+    {
+      "id": "qf-17-05",
+      "categoryEn": "Sports & Physical Feats",
+      "categoryAr": "الرياضة والإنجازات البدنية",
+      "textEn": "The term \"checkmate\" comes from the Persian phrase \"Shah Mat,\" meaning \"the king is dead.\"",
+      "textAr": "مصطلح \"كش ملك\" يأتي من العبارة الفارسية \"شاه مات\"، والتي تعني \"مات الملك\"."
+    },
+    {
+      "id": "qf-17-06",
+      "categoryEn": "Sports & Physical Feats",
+      "categoryAr": "الرياضة والإنجازات البدنية",
+      "textEn": "Michael Phelps has won more Olympic gold medals than 161 countries.",
+      "textAr": "فاز مايكل فيلبس بميداليات ذهبية أولمبية أكثر من 161 دولة."
+    },
+    {
+      "id": "qf-17-07",
+      "categoryEn": "Sports & Physical Feats",
+      "categoryAr": "الرياضة والإنجازات البدنية",
+      "textEn": "A regulation golf ball has 336 dimples.",
+      "textAr": "كرة الجولف القياسية تحتوي على 336 نقرة."
+    },
+    {
+      "id": "qf-17-08",
+      "categoryEn": "Sports & Physical Feats",
+      "categoryAr": "الرياضة والإنجازات البدنية",
+      "textEn": "Tug-of-war was an Olympic sport from 1900 to 1920.",
+      "textAr": "كانت لعبة شد الحبل رياضة أولمبية من عام 1900 إلى عام 1920."
+    },
+    {
+      "id": "qf-17-09",
+      "categoryEn": "Sports & Physical Feats",
+      "categoryAr": "الرياضة والإنجازات البدنية",
+      "textEn": "Bowling was invented in ancient Egypt.",
+      "textAr": "تم اختراع البولينج في مصر القديمة."
+    },
+    {
+      "id": "qf-17-10",
+      "categoryEn": "Sports & Physical Feats",
+      "categoryAr": "الرياضة والإنجازات البدنية",
+      "textEn": "Formula 1 cars can drive upside down in a tunnel at 120 mph due to downforce.",
+      "textAr": "يمكن لسيارات الفورمولا 1 القيادة رأسًا على عقب في نفق بسرعة 120 ميلًا في الساعة بسبب القوة السفلية."
+    },
+    {
+      "id": "qf-18-01",
+      "categoryEn": "Oceanography & Earth",
+      "categoryAr": "علم المحيطات والأرض",
+      "textEn": "The ocean contains nearly 20 million tons of gold.",
+      "textAr": "يحتوي المحيط على ما يقرب من 20 مليون طن من الذهب."
+    },
+    {
+      "id": "qf-18-02",
+      "categoryEn": "Oceanography & Earth",
+      "categoryAr": "علم المحيطات والأرض",
+      "textEn": "More than 80% of our ocean is unmapped and unexplored.",
+      "textAr": "أكثر من 80% من محيطاتنا غير ممسوحة وغير مستكشفة."
+    },
+    {
+      "id": "qf-18-03",
+      "categoryEn": "Oceanography & Earth",
+      "categoryAr": "علم المحيطات والأرض",
+      "textEn": "The deepest part of the ocean is the Mariana Trench.",
+      "textAr": "أعمق جزء في المحيط هو خندق ماريانا."
+    },
+    {
+      "id": "qf-18-04",
+      "categoryEn": "Oceanography & Earth",
+      "categoryAr": "علم المحيطات والأرض",
+      "textEn": "Hawaii moves 7.5 cm closer to Alaska every year.",
+      "textAr": "تقترب هاواي 7.5 سم من ألاسكا كل عام."
+    },
+    {
+      "id": "qf-18-05",
+      "categoryEn": "Oceanography & Earth",
+      "categoryAr": "علم المحيطات والأرض",
+      "textEn": "The Earth's core is as hot as the surface of the sun.",
+      "textAr": "لب الأرض ساخن مثل سطح الشمس."
+    },
+    {
+      "id": "qf-18-06",
+      "categoryEn": "Oceanography & Earth",
+      "categoryAr": "علم المحيطات والأرض",
+      "textEn": "Most of Earth's breathable oxygen comes from the ocean.",
+      "textAr": "يأتي معظم الأكسجين الصالح للتنفس على الأرض من المحيط."
+    },
+    {
+      "id": "qf-18-07",
+      "categoryEn": "Oceanography & Earth",
+      "categoryAr": "علم المحيطات والأرض",
+      "textEn": "A single lightning bolt has enough energy to toast 100,000 slices of bread.",
+      "textAr": "صاعقة برق واحدة تمتلك طاقة تكفي لتحميص 100 ألف شريحة خبز."
+    },
+    {
+      "id": "qf-18-08",
+      "categoryEn": "Oceanography & Earth",
+      "categoryAr": "علم المحيطات والأرض",
+      "textEn": "There are underwater rivers and lakes hidden in the ocean.",
+      "textAr": "توجد أنهار وبحيرات تحت الماء مخبأة في المحيط."
+    },
+    {
+      "id": "qf-18-09",
+      "categoryEn": "Oceanography & Earth",
+      "categoryAr": "علم المحيطات والأرض",
+      "textEn": "Volcanoes can create their own weather systems.",
+      "textAr": "يمكن للبراكين أن تخلق أنظمة طقس خاصة بها."
+    },
+    {
+      "id": "qf-18-10",
+      "categoryEn": "Oceanography & Earth",
+      "categoryAr": "علم المحيطات والأرض",
+      "textEn": "The Amazon rainforest produces 20% of the world's oxygen.",
+      "textAr": "تنتج غابات الأمازون المطيرة 20% من أكسجين العالم."
+    },
+    {
+      "id": "qf-19-01",
+      "categoryEn": "Medicine & Health",
+      "categoryAr": "الطب والصحة",
+      "textEn": "Penicillin was discovered completely by accident.",
+      "textAr": "تم اكتشاف البنسلين بالصدفة البحتة."
+    },
+    {
+      "id": "qf-19-02",
+      "categoryEn": "Medicine & Health",
+      "categoryAr": "الطب والصحة",
+      "textEn": "Your stomach has to produce a new layer of mucus every two weeks or it will digest itself.",
+      "textAr": "يجب أن تنتج معدتك طبقة جديدة من المخاط كل أسبوعين وإلا ستهضم نفسها."
+    },
+    {
+      "id": "qf-19-03",
+      "categoryEn": "Medicine & Health",
+      "categoryAr": "الطب والصحة",
+      "textEn": "The only jointless bone in your body is the hyoid bone in your throat.",
+      "textAr": "العظمة الوحيدة الخالية من المفاصل في جسمك هي العظم اللامي في حلقك."
+    },
+    {
+      "id": "qf-19-04",
+      "categoryEn": "Medicine & Health",
+      "categoryAr": "الطب والصحة",
+      "textEn": "Your blood makes up about 8% of your body weight.",
+      "textAr": "يشكل دمك حوالي 8% من وزن جسمك."
+    },
+    {
+      "id": "qf-19-05",
+      "categoryEn": "Medicine & Health",
+      "categoryAr": "الطب والصحة",
+      "textEn": "Corneas are the only part of the body with no blood supply; they get oxygen directly from the air.",
+      "textAr": "القرنية هي الجزء الوحيد في الجسم الذي لا يصله إمداد دموي؛ فهي تحصل على الأكسجين مباشرة من الهواء."
+    },
+    {
+      "id": "qf-19-06",
+      "categoryEn": "Medicine & Health",
+      "categoryAr": "الطب والصحة",
+      "textEn": "Laughing lowers stress hormones and strengthens the immune system.",
+      "textAr": "الضحك يقلل من هرمونات التوتر ويقوي جهاز المناعة."
+    },
+    {
+      "id": "qf-19-07",
+      "categoryEn": "Medicine & Health",
+      "categoryAr": "الطب والصحة",
+      "textEn": "The human body contains enough fat to make seven bars of soap.",
+      "textAr": "يحتوي جسم الإنسان على دهون تكفي لصنع سبعة قوالب من الصابون."
+    },
+    {
+      "id": "qf-19-08",
+      "categoryEn": "Medicine & Health",
+      "categoryAr": "الطب والصحة",
+      "textEn": "Babies are born with 300 bones, but adults have only 206.",
+      "textAr": "يولد الأطفال بـ 300 عظمة، لكن البالغين لديهم 206 عظمة فقط."
+    },
+    {
+      "id": "qf-19-09",
+      "categoryEn": "Medicine & Health",
+      "categoryAr": "الطب والصحة",
+      "textEn": "A sneeze travels out of your mouth at over 100 miles per hour.",
+      "textAr": "تخرج العطسة من فمك بسرعة تزيد عن 100 ميل في الساعة."
+    },
+    {
+      "id": "qf-19-10",
+      "categoryEn": "Medicine & Health",
+      "categoryAr": "الطب والصحة",
+      "textEn": "Astronauts can grow up to 2 inches taller in space due to microgravity.",
+      "textAr": "يمكن أن يزداد طول رواد الفضاء حتى بوصتين في الفضاء بسبب انعدام الجاذبية."
+    },
+    {
+      "id": "qf-20-01",
+      "categoryEn": "Engineering & Architecture",
+      "categoryAr": "الهندسة والعمارة",
+      "textEn": "The Leaning Tower of Pisa was never straight.",
+      "textAr": "برج بيزا المائل لم يكن مستقيمًا أبدًا."
+    },
+    {
+      "id": "qf-20-02",
+      "categoryEn": "Engineering & Architecture",
+      "categoryAr": "الهندسة والعمارة",
+      "textEn": "Concrete is the most widely used human-made material on Earth.",
+      "textAr": "الخرسانة هي المادة الأكثر استخدامًا من صنع الإنسان على وجه الأرض."
+    },
+    {
+      "id": "qf-20-03",
+      "categoryEn": "Engineering & Architecture",
+      "categoryAr": "الهندسة والعمارة",
+      "textEn": "The Golden Gate Bridge is continuously painted year-round to protect it from rust.",
+      "textAr": "يتم طلاء جسر البوابة الذهبية بشكل مستمر على مدار العام لحمايته من الصدأ."
+    },
+    {
+      "id": "qf-20-04",
+      "categoryEn": "Engineering & Architecture",
+      "categoryAr": "الهندسة والعمارة",
+      "textEn": "The Burj Khalifa is so tall you can watch the sunset twice in one day.",
+      "textAr": "برج خليفة طويل جدًا لدرجة أنه يمكنك مشاهدة غروب الشمس مرتين في يوم واحد."
+    },
+    {
+      "id": "qf-20-05",
+      "categoryEn": "Engineering & Architecture",
+      "categoryAr": "الهندسة والعمارة",
+      "textEn": "Rome's Pantheon is the largest unreinforced solid concrete dome in the world.",
+      "textAr": "البانثيون في روما هو أكبر قبة خرسانية صلبة غير مسلحة في العالم."
+    },
+    {
+      "id": "qf-20-06",
+      "categoryEn": "Engineering & Architecture",
+      "categoryAr": "الهندسة والعمارة",
+      "textEn": "Escalators were originally sold as amusement park rides.",
+      "textAr": "تم بيع السلالم المتحركة في الأصل كألعاب في الملاهي."
+    },
+    {
+      "id": "qf-20-07",
+      "categoryEn": "Engineering & Architecture",
+      "categoryAr": "الهندسة والعمارة",
+      "textEn": "The Hoover Dam contains enough concrete to build a highway from New York to San Francisco.",
+      "textAr": "يحتوي سد هوفر على خرسانة تكفي لبناء طريق سريع من نيويورك إلى سان فرانسيسكو."
+    },
+    {
+      "id": "qf-20-08",
+      "categoryEn": "Engineering & Architecture",
+      "categoryAr": "الهندسة والعمارة",
+      "textEn": "The Chunnel connecting England and France is 31 miles long.",
+      "textAr": "يبلغ طول نفق المانش الذي يربط بين إنجلترا وفرنسا 31 ميلًا."
+    },
+    {
+      "id": "qf-20-09",
+      "categoryEn": "Engineering & Architecture",
+      "categoryAr": "الهندسة والعمارة",
+      "textEn": "Pyramids are earthquake-resistant due to their wide base and low center of gravity.",
+      "textAr": "الأهرامات مقاومة للزلازل بسبب قاعدتها العريضة ومركز ثقلها المنخفض."
+    },
+    {
+      "id": "qf-20-10",
+      "categoryEn": "Engineering & Architecture",
+      "categoryAr": "الهندسة والعمارة",
+      "textEn": "Modern suspension bridges are designed to sway in high winds.",
+      "textAr": "تم تصميم الجسور المعلقة الحديثة لتتمايل في الرياح العاتية."
+    },
+    {
+      "id": "qf-21-01",
+      "categoryEn": "Myths & Folklore",
+      "categoryAr": "الأساطير والفولكلور",
+      "textEn": "Dragons appear in the mythology of almost every ancient culture.",
+      "textAr": "تظهر التنانين في أساطير كل الثقافات القديمة تقريبًا."
+    },
+    {
+      "id": "qf-21-02",
+      "categoryEn": "Myths & Folklore",
+      "categoryAr": "الأساطير والفولكلور",
+      "textEn": "Vampires in early folklore were described as bloated and dark, not pale and thin.",
+      "textAr": "تم وصف مصاصي الدماء في الفولكلور المبكر بأنهم منتفخون وداكنو اللون، وليسوا شاحبين ونحيفين."
+    },
+    {
+      "id": "qf-21-03",
+      "categoryEn": "Myths & Folklore",
+      "categoryAr": "الأساطير والفولكلور",
+      "textEn": "The unicorn is the national animal of Scotland.",
+      "textAr": "وحيد القرن (اليونيكورن) هو الحيوان الوطني لاسكتلندا."
+    },
+    {
+      "id": "qf-21-04",
+      "categoryEn": "Myths & Folklore",
+      "categoryAr": "الأساطير والفولكلور",
+      "textEn": "In Norse mythology, the world tree is an immense ash tree called Yggdrasil.",
+      "textAr": "في الأساطير الإسكندنافية، شجرة العالم هي شجرة دردار ضخمة تسمى يغدراسيل."
+    },
+    {
+      "id": "qf-21-05",
+      "categoryEn": "Myths & Folklore",
+      "categoryAr": "الأساطير والفولكلور",
+      "textEn": "Medusa was originally a beautiful human priestess before being cursed.",
+      "textAr": "كانت ميدوسا في الأصل كاهنة بشرية جميلة قبل أن تُلعن."
+    },
+    {
+      "id": "qf-21-06",
+      "categoryEn": "Myths & Folklore",
+      "categoryAr": "الأساطير والفولكلور",
+      "textEn": "Mermaids were often considered omens of bad weather and shipwrecks.",
+      "textAr": "غالبًا ما كانت حوريات البحر تُعتبر نذير شؤم بسوء الأحوال الجوية وغرق السفن."
+    },
+    {
+      "id": "qf-21-07",
+      "categoryEn": "Myths & Folklore",
+      "categoryAr": "الأساطير والفولكلور",
+      "textEn": "King Arthur's Excalibur was not the sword pulled from the stone.",
+      "textAr": "سيف الملك آرثر \"إكسكاليبر\" لم يكن السيف الذي سُحب من الحجر."
+    },
+    {
+      "id": "qf-21-08",
+      "categoryEn": "Myths & Folklore",
+      "categoryAr": "الأساطير والفولكلور",
+      "textEn": "Banshees in Irish folklore only cry to warn of an impending death in specific families.",
+      "textAr": "البانشي في الفولكلور الأيرلندي تبكي فقط للتحذير من موت وشيك في عائلات معينة."
+    },
+    {
+      "id": "qf-21-09",
+      "categoryEn": "Myths & Folklore",
+      "categoryAr": "الأساطير والفولكلور",
+      "textEn": "The Greek god Hades was not considered evil, just a strict guardian of the dead.",
+      "textAr": "لم يُعتبر الإله اليوناني هاديس شريرًا، بل مجرد حارس صارم للموتى."
+    },
+    {
+      "id": "qf-21-10",
+      "categoryEn": "Myths & Folklore",
+      "categoryAr": "الأساطير والفولكلور",
+      "textEn": "The legend of the werewolf originated in ancient Greece.",
+      "textAr": "أسطورة المستذئب نشأت في اليونان القديمة."
+    },
+    {
+      "id": "qf-22-01",
+      "categoryEn": "Business & Economics",
+      "categoryAr": "الأعمال والاقتصاد",
+      "textEn": "Apple's first logo featured Sir Isaac Newton sitting under an apple tree.",
+      "textAr": "أول شعار لشركة أبل كان يصور السير إسحاق نيوتن جالسًا تحت شجرة تفاح."
+    },
+    {
+      "id": "qf-22-02",
+      "categoryEn": "Business & Economics",
+      "categoryAr": "الأعمال والاقتصاد",
+      "textEn": "The founders of HP flipped a coin to decide whose name would go first.",
+      "textAr": "قام مؤسسو شركة إتش بي (HP) بإلقاء عملة معدنية لتقرير من سيوضع اسمه أولاً."
+    },
+    {
+      "id": "qf-22-03",
+      "categoryEn": "Business & Economics",
+      "categoryAr": "الأعمال والاقتصاد",
+      "textEn": "Volkswagen sells more sausages than cars.",
+      "textAr": "تبيع شركة فولكس فاجن نقانق أكثر من السيارات."
+    },
+    {
+      "id": "qf-22-04",
+      "categoryEn": "Business & Economics",
+      "categoryAr": "الأعمال والاقتصاد",
+      "textEn": "Samsung originally started as a grocery trading store in 1938.",
+      "textAr": "بدأت شركة سامسونج في الأصل كمتجر لبيع البقالة عام 1938."
+    },
+    {
+      "id": "qf-22-05",
+      "categoryEn": "Business & Economics",
+      "categoryAr": "الأعمال والاقتصاد",
+      "textEn": "The Rubik's Cube is the highest-selling single toy of all time.",
+      "textAr": "مكعب روبيك هو اللعبة المفردة الأكثر مبيعًا على الإطلاق."
+    },
+    {
+      "id": "qf-22-06",
+      "categoryEn": "Business & Economics",
+      "categoryAr": "الأعمال والاقتصاد",
+      "textEn": "Blockbuster passed up the chance to buy Netflix for $50 million in 2000.",
+      "textAr": "فوتت شركة بلوكباستر فرصة شراء نتفليكس مقابل 50 مليون دولار في عام 2000."
+    },
+    {
+      "id": "qf-22-07",
+      "categoryEn": "Business & Economics",
+      "categoryAr": "الأعمال والاقتصاد",
+      "textEn": "IKEA is an acronym standing for the founder's name, farm, and village.",
+      "textAr": "كلمة إيكيا (IKEA) هي اختصار لاسم المؤسس ومزرعته وقريته."
+    },
+    {
+      "id": "qf-22-08",
+      "categoryEn": "Business & Economics",
+      "categoryAr": "الأعمال والاقتصاد",
+      "textEn": "UPS delivery trucks rarely make left turns to save time and fuel.",
+      "textAr": "نادرًا ما تقوم شاحنات توصيل UPS بالانعطاف يسارًا لتوفير الوقت والوقود."
+    },
+    {
+      "id": "qf-22-09",
+      "categoryEn": "Business & Economics",
+      "categoryAr": "الأعمال والاقتصاد",
+      "textEn": "Coca-Cola would be green if coloring wasn't added to it.",
+      "textAr": "سيكون لون كوكاكولا أخضر لو لم تتم إضافة الملونات إليها."
+    },
+    {
+      "id": "qf-22-10",
+      "categoryEn": "Business & Economics",
+      "categoryAr": "الأعمال والاقتصاد",
+      "textEn": "Toys \"R\" Us backwards \"R\" was meant to mimic a child's handwriting.",
+      "textAr": "حرف \"R\" المقلوب في شعار Toys \"R\" Us كان يهدف إلى تقليد خط يد طفل."
+    },
+    {
+      "id": "qf-23-01",
+      "categoryEn": "Human Behavior & Sociology",
+      "categoryAr": "السلوك البشري وعلم الاجتماع",
+      "textEn": "Yawning is contagious, even when reading about it or seeing an animal do it.",
+      "textAr": "التثاؤب مُعدٍ، حتى عند القراءة عنه أو رؤية حيوان يتثاءب."
+    },
+    {
+      "id": "qf-23-02",
+      "categoryEn": "Human Behavior & Sociology",
+      "categoryAr": "السلوك البشري وعلم الاجتماع",
+      "textEn": "Humans are the only species that blush.",
+      "textAr": "البشر هم النوع الوحيد الذي يحمر خجلًا."
+    },
+    {
+      "id": "qf-23-03",
+      "categoryEn": "Human Behavior & Sociology",
+      "categoryAr": "السلوك البشري وعلم الاجتماع",
+      "textEn": "It takes only 1/10th of a second to form a first impression about a person.",
+      "textAr": "يستغرق الأمر عُشر ثانية فقط لتكوين انطباع أول عن شخص ما."
+    },
+    {
+      "id": "qf-23-04",
+      "categoryEn": "Human Behavior & Sociology",
+      "categoryAr": "السلوك البشري وعلم الاجتماع",
+      "textEn": "You are more likely to remember something if you write it down physically.",
+      "textAr": "من المرجح أن تتذكر شيئًا ما إذا كتبته ماديًا بيدك."
+    },
+    {
+      "id": "qf-23-05",
+      "categoryEn": "Human Behavior & Sociology",
+      "categoryAr": "السلوك البشري وعلم الاجتماع",
+      "textEn": "We naturally mimic the body language of people we like.",
+      "textAr": "نحن نقلد لا شعوريًا لغة جسد الأشخاص الذين نحبهم."
+    },
+    {
+      "id": "qf-23-06",
+      "categoryEn": "Human Behavior & Sociology",
+      "categoryAr": "السلوك البشري وعلم الاجتماع",
+      "textEn": "People are generally more productive in rooms with blue walls.",
+      "textAr": "الناس عمومًا أكثر إنتاجية في الغرف ذات الجدران الزرقاء."
+    },
+    {
+      "id": "qf-23-07",
+      "categoryEn": "Human Behavior & Sociology",
+      "categoryAr": "السلوك البشري وعلم الاجتماع",
+      "textEn": "Gossiping actually helped early humans survive by sharing social information.",
+      "textAr": "النميمة ساعدت البشر الأوائل في الواقع على البقاء من خلال مشاركة المعلومات الاجتماعية."
+    },
+    {
+      "id": "qf-23-08",
+      "categoryEn": "Human Behavior & Sociology",
+      "categoryAr": "السلوك البشري وعلم الاجتماع",
+      "textEn": "Most people experience \"phantom vibration syndrome,\" thinking their phone buzzed.",
+      "textAr": "يعاني معظم الناس من \"متلازمة الاهتزاز الوهمي\"، حيث يعتقدون أن هاتفهم قد اهتز."
+    },
+    {
+      "id": "qf-23-09",
+      "categoryEn": "Human Behavior & Sociology",
+      "categoryAr": "السلوك البشري وعلم الاجتماع",
+      "textEn": "Holding a warm drink can make you view other people as having warmer personalities.",
+      "textAr": "الإمساك بمشروب دافئ يمكن أن يجعلك تنظر إلى الآخرين على أنهم يتمتعون بشخصيات أكثر دفئًا."
+    },
+    {
+      "id": "qf-23-10",
+      "categoryEn": "Human Behavior & Sociology",
+      "categoryAr": "السلوك البشري وعلم الاجتماع",
+      "textEn": "Humans are hardwired to love symmetrical faces.",
+      "textAr": "البشر مبرمجون فطريًا على حب الوجوه المتماثلة."
+    },
+    {
+      "id": "qf-24-01",
+      "categoryEn": "Gaming & Tech Culture",
+      "categoryAr": "الألعاب وثقافة التقنية",
+      "textEn": "The PlayStation 2 is the best-selling video game console of all time.",
+      "textAr": "جهاز بلاي ستيشن 2 هو وحدة تحكم ألعاب الفيديو الأكثر مبيعًا على الإطلاق."
+    },
+    {
+      "id": "qf-24-02",
+      "categoryEn": "Gaming & Tech Culture",
+      "categoryAr": "الألعاب وثقافة التقنية",
+      "textEn": "\"Tetris\" was the first video game played in space.",
+      "textAr": "\"تتريس\" كانت أول لعبة فيديو تُلعب في الفضاء."
+    },
+    {
+      "id": "qf-24-03",
+      "categoryEn": "Gaming & Tech Culture",
+      "categoryAr": "الألعاب وثقافة التقنية",
+      "textEn": "Steve Wozniak developed the game \"Breakout\" for Atari before founding Apple.",
+      "textAr": "طور ستيف وزنياك لعبة \"بريك آوت\" لشركة أتاري قبل تأسيس أبل."
+    },
+    {
+      "id": "qf-24-04",
+      "categoryEn": "Gaming & Tech Culture",
+      "categoryAr": "الألعاب وثقافة التقنية",
+      "textEn": "The maximum score in Pac-Man is 3,333,360 points.",
+      "textAr": "الحد الأقصى للنتيجة في لعبة باك مان هو 3,333,360 نقطة."
+    },
+    {
+      "id": "qf-24-05",
+      "categoryEn": "Gaming & Tech Culture",
+      "categoryAr": "الألعاب وثقافة التقنية",
+      "textEn": "The \"Konami Code\" was first used in the game Gradius, not Contra.",
+      "textAr": "تم استخدام \"كود كونامي\" لأول مرة في لعبة جراديوس، وليس كونترا."
+    },
+    {
+      "id": "qf-24-06",
+      "categoryEn": "Gaming & Tech Culture",
+      "categoryAr": "الألعاب وثقافة التقنية",
+      "textEn": "Minecraft's world is theoretically larger than the surface of Neptune.",
+      "textAr": "عالم لعبة ماينكرافت نظريًا أكبر من سطح كوكب نبتون."
+    },
+    {
+      "id": "qf-24-07",
+      "categoryEn": "Gaming & Tech Culture",
+      "categoryAr": "الألعاب وثقافة التقنية",
+      "textEn": "The iconic Sonic the Hedgehog was originally drawn as a rabbit.",
+      "textAr": "شخصية القنفذ سونيك الشهيرة رُسمت في الأصل كأرنب."
+    },
+    {
+      "id": "qf-24-08",
+      "categoryEn": "Gaming & Tech Culture",
+      "categoryAr": "الألعاب وثقافة التقنية",
+      "textEn": "World of Warcraft caused a virtual pandemic in 2005 known as the \"Corrupted Blood\" incident.",
+      "textAr": "تسببت لعبة وورلد أوف ووركرافت في جائحة افتراضية عام 2005 عُرفت بحادثة \"الدم الفاسد\"."
+    },
+    {
+      "id": "qf-24-09",
+      "categoryEn": "Gaming & Tech Culture",
+      "categoryAr": "الألعاب وثقافة التقنية",
+      "textEn": "The voice of Mario, Charles Martinet, crashed the audition to get the role.",
+      "textAr": "مؤدي صوت ماريو، تشارلز مارتينيت، اقتحم تجربة الأداء للحصول على الدور."
+    },
+    {
+      "id": "qf-24-10",
+      "categoryEn": "Gaming & Tech Culture",
+      "categoryAr": "الألعاب وثقافة التقنية",
+      "textEn": "The creeper in Minecraft was created from a coding error meant to be a pig.",
+      "textAr": "تم إنشاء وحش الكريبر في ماينكرافت نتيجة خطأ برمجي كان يُفترض أن يكون خنزيرًا."
+    },
+    {
+      "id": "qf-25-01",
+      "categoryEn": "Botany & Flora",
+      "categoryAr": "علم النبات والنباتات",
+      "textEn": "Pineapples take about two years to grow.",
+      "textAr": "يستغرق نمو الأناناس حوالي عامين."
+    },
+    {
+      "id": "qf-25-02",
+      "categoryEn": "Botany & Flora",
+      "categoryAr": "علم النبات والنباتات",
+      "textEn": "There is a flower that smells exactly like rotting meat (Rafflesia).",
+      "textAr": "توجد زهرة تفوح منها رائحة اللحم المتعفن تمامًا (زهرة رافليسيا)."
+    },
+    {
+      "id": "qf-25-03",
+      "categoryEn": "Botany & Flora",
+      "categoryAr": "علم النبات والنباتات",
+      "textEn": "Venus flytraps can count how many times an insect touches their hairs.",
+      "textAr": "يمكن لنبات صائد الذباب (خناق الذباب) أن يحصي عدد المرات التي تلمس فيها الحشرة شعيراته."
+    },
+    {
+      "id": "qf-25-04",
+      "categoryEn": "Botany & Flora",
+      "categoryAr": "علم النبات والنباتات",
+      "textEn": "Grass makes up over 20% of the world's vegetation.",
+      "textAr": "يشكل العشب أكثر من 20% من الغطاء النباتي في العالم."
+    },
+    {
+      "id": "qf-25-05",
+      "categoryEn": "Botany & Flora",
+      "categoryAr": "علم النبات والنباتات",
+      "textEn": "Oak trees do not produce acorns until they are 50 years old.",
+      "textAr": "لا تنتج أشجار البلوط ثمار الجوز حتى تبلغ 50 عامًا."
+    },
+    {
+      "id": "qf-25-06",
+      "categoryEn": "Botany & Flora",
+      "categoryAr": "علم النبات والنباتات",
+      "textEn": "Some plants can recognize their siblings and share nutrients with them.",
+      "textAr": "يمكن لبعض النباتات التعرف على أشقائها ومشاركة العناصر الغذائية معها."
+    },
+    {
+      "id": "qf-25-07",
+      "categoryEn": "Botany & Flora",
+      "categoryAr": "علم النبات والنباتات",
+      "textEn": "The oldest living tree in the world is a bristlecone pine over 4,800 years old.",
+      "textAr": "أقدم شجرة حية في العالم هي شجرة صنوبر بريستليكون يبلغ عمرها أكثر من 4800 عام."
+    },
+    {
+      "id": "qf-25-08",
+      "categoryEn": "Botany & Flora",
+      "categoryAr": "علم النبات والنباتات",
+      "textEn": "Saffron is the most expensive spice in the world, derived from the crocus flower.",
+      "textAr": "الزعفران هو أغلى التوابل في العالم، ويُستخرج من زهرة الزعفران."
+    },
+    {
+      "id": "qf-25-09",
+      "categoryEn": "Botany & Flora",
+      "categoryAr": "علم النبات والنباتات",
+      "textEn": "A cucumber is 96% water.",
+      "textAr": "يتكون الخيار من الماء بنسبة 96%."
+    },
+    {
+      "id": "qf-25-10",
+      "categoryEn": "Botany & Flora",
+      "categoryAr": "علم النبات والنباتات",
+      "textEn": "Cabbage, broccoli, and kale all originate from the exact same wild mustard plant.",
+      "textAr": "الكرنب والبروكلي والكيل كلها تنحدر من نفس نبتة الخردل البري تمامًا."
+    },
+    {
+      "id": "qf-26-01",
+      "categoryEn": "Entomology (Insects)",
+      "categoryAr": "علم الحشرات",
+      "textEn": "Ants never sleep and do not have lungs.",
+      "textAr": "النمل لا ينام أبدًا وليس لديه رئتان."
+    },
+    {
+      "id": "qf-26-02",
+      "categoryEn": "Entomology (Insects)",
+      "categoryAr": "علم الحشرات",
+      "textEn": "Honeybees can recognize human faces.",
+      "textAr": "يمكن لنحل العسل التعرف على وجوه البشر."
+    },
+    {
+      "id": "qf-26-03",
+      "categoryEn": "Entomology (Insects)",
+      "categoryAr": "علم الحشرات",
+      "textEn": "Cockroaches can live for a week without their heads.",
+      "textAr": "يمكن للصراصير أن تعيش لمدة أسبوع بدون رأسها."
+    },
+    {
+      "id": "qf-26-04",
+      "categoryEn": "Entomology (Insects)",
+      "categoryAr": "علم الحشرات",
+      "textEn": "Fleas can jump 130 times their own height.",
+      "textAr": "يمكن للبراغيث أن تقفز لمسافة تعادل 130 ضعف ارتفاعها."
+    },
+    {
+      "id": "qf-26-05",
+      "categoryEn": "Entomology (Insects)",
+      "categoryAr": "علم الحشرات",
+      "textEn": "A mosquito has 47 teeth.",
+      "textAr": "تمتلك البعوضة 47 سنًا."
+    },
+    {
+      "id": "qf-26-06",
+      "categoryEn": "Entomology (Insects)",
+      "categoryAr": "علم الحشرات",
+      "textEn": "Praying mantises are the only insects that can turn their heads 180 degrees.",
+      "textAr": "حشرة فرس النبي هي الحشرة الوحيدة التي يمكنها إدارة رأسها 180 درجة."
+    },
+    {
+      "id": "qf-26-07",
+      "categoryEn": "Entomology (Insects)",
+      "categoryAr": "علم الحشرات",
+      "textEn": "There are more than 350,000 known species of beetles.",
+      "textAr": "يوجد أكثر من 350 ألف نوع معروف من الخنافس."
+    },
+    {
+      "id": "qf-26-08",
+      "categoryEn": "Entomology (Insects)",
+      "categoryAr": "علم الحشرات",
+      "textEn": "Dragonflies have been on Earth for 300 million years.",
+      "textAr": "اليعسوب موجود على الأرض منذ 300 مليون سنة."
+    },
+    {
+      "id": "qf-26-09",
+      "categoryEn": "Entomology (Insects)",
+      "categoryAr": "علم الحشرات",
+      "textEn": "Termites eat wood twice as fast when listening to rock music.",
+      "textAr": "يأكل النمل الأبيض الخشب بسرعة مضاعفة عند استماعه لموسيقى الروك."
+    },
+    {
+      "id": "qf-26-10",
+      "categoryEn": "Entomology (Insects)",
+      "categoryAr": "علم الحشرات",
+      "textEn": "A housefly hums in the key of F.",
+      "textAr": "الذبابة المنزلية تطن على السلم الموسيقي \"فا\"."
+    },
+    {
+      "id": "qf-27-01",
+      "categoryEn": "Aviation & Transport",
+      "categoryAr": "الطيران والنقل",
+      "textEn": "The safest mode of transportation is the commercial airplane.",
+      "textAr": "وسيلة النقل الأكثر أمانًا هي الطائرة التجارية."
+    },
+    {
+      "id": "qf-27-02",
+      "categoryEn": "Aviation & Transport",
+      "categoryAr": "الطيران والنقل",
+      "textEn": "The black box in an airplane is actually painted bright orange.",
+      "textAr": "الصندوق الأسود في الطائرة مطلي في الواقع باللون البرتقالي الزاهي."
+    },
+    {
+      "id": "qf-27-03",
+      "categoryEn": "Aviation & Transport",
+      "categoryAr": "الطيران والنقل",
+      "textEn": "Airline food tastes different because low humidity alters your taste buds.",
+      "textAr": "طعم طعام شركات الطيران يبدو مختلفًا لأن الرطوبة المنخفضة تغير من براعم التذوق لديك."
+    },
+    {
+      "id": "qf-27-04",
+      "categoryEn": "Aviation & Transport",
+      "categoryAr": "الطيران والنقل",
+      "textEn": "The Boeing 747 has over 6 million individual parts.",
+      "textAr": "تحتوي طائرة بوينج 747 على أكثر من 6 ملايين جزء منفصل."
+    },
+    {
+      "id": "qf-27-05",
+      "categoryEn": "Aviation & Transport",
+      "categoryAr": "الطيران والنقل",
+      "textEn": "Concorde planes flew so fast they stretched by 6 to 10 inches during flight.",
+      "textAr": "طائرات الكونكورد كانت تطير بسرعة كبيرة لدرجة أنها كانت تتمدد من 6 إلى 10 بوصات أثناء الطيران."
+    },
+    {
+      "id": "qf-27-06",
+      "categoryEn": "Aviation & Transport",
+      "categoryAr": "الطيران والنقل",
+      "textEn": "Submarines use sound waves (sonar) to \"see\" underwater.",
+      "textAr": "تستخدم الغواصات الموجات الصوتية (السونار) \"للرؤية\" تحت الماء."
+    },
+    {
+      "id": "qf-27-07",
+      "categoryEn": "Aviation & Transport",
+      "categoryAr": "الطيران والنقل",
+      "textEn": "The fastest train in the world uses magnetic levitation (Maglev) to float.",
+      "textAr": "أسرع قطار في العالم يستخدم الرفع المغناطيسي (ماجليف) للطفو."
+    },
+    {
+      "id": "qf-27-08",
+      "categoryEn": "Aviation & Transport",
+      "categoryAr": "الطيران والنقل",
+      "textEn": "Jet trails (contrails) are essentially artificial clouds made of ice crystals.",
+      "textAr": "مسارات الطائرات النفاثة (الكونتريل) هي في الأساس سحب اصطناعية تتكون من بلورات الجليد."
+    },
+    {
+      "id": "qf-27-09",
+      "categoryEn": "Aviation & Transport",
+      "categoryAr": "الطيران والنقل",
+      "textEn": "The first hot air balloon passengers were a sheep, a duck, and a rooster.",
+      "textAr": "أول ركاب في منطاد الهواء الساخن كانوا خروفًا وبطة وديكًا."
+    },
+    {
+      "id": "qf-27-10",
+      "categoryEn": "Aviation & Transport",
+      "categoryAr": "الطيران والنقل",
+      "textEn": "Tires on an airplane can withstand speeds of up to 288 mph and hit the ground over 500 times.",
+      "textAr": "يمكن لإطارات الطائرة تحمل سرعات تصل إلى 288 ميلًا في الساعة والاصطدام بالأرض أكثر من 500 مرة."
+    },
+    {
+      "id": "qf-28-01",
+      "categoryEn": "Chemistry & Elements",
+      "categoryAr": "الكيمياء والعناصر",
+      "textEn": "The letter 'J' is the only letter that does not appear on the periodic table.",
+      "textAr": "الحرف \"J\" هو الحرف الوحيد الذي لا يظهر في الجدول الدوري."
+    },
+    {
+      "id": "qf-28-02",
+      "categoryEn": "Chemistry & Elements",
+      "categoryAr": "الكيمياء والعناصر",
+      "textEn": "Francium is the rarest element on Earth; less than an ounce exists at any given time.",
+      "textAr": "الفرانسيوم هو أندر عنصر على وجه الأرض؛ يوجد منه أقل من أونصة واحدة في أي وقت."
+    },
+    {
+      "id": "qf-28-03",
+      "categoryEn": "Chemistry & Elements",
+      "categoryAr": "الكيمياء والعناصر",
+      "textEn": "Copper is naturally antibacterial.",
+      "textAr": "النحاس مضاد للبكتيريا بطبيعته."
+    },
+    {
+      "id": "qf-28-04",
+      "categoryEn": "Chemistry & Elements",
+      "categoryAr": "الكيمياء والعناصر",
+      "textEn": "Gallium is a metal that melts in the palm of your hand.",
+      "textAr": "الغاليوم معدن يذوب في راحة يدك."
+    },
+    {
+      "id": "qf-28-05",
+      "categoryEn": "Chemistry & Elements",
+      "categoryAr": "الكيمياء والعناصر",
+      "textEn": "Radium was once used in toothpaste to make teeth whiter before its dangers were known.",
+      "textAr": "تم استخدام الراديوم ذات مرة في معجون الأسنان لتبييض الأسنان قبل معرفة أخطاره."
+    },
+    {
+      "id": "qf-28-06",
+      "categoryEn": "Chemistry & Elements",
+      "categoryAr": "الكيمياء والعناصر",
+      "textEn": "Fluorine gas is so reactive it can set water on fire.",
+      "textAr": "غاز الفلور شديد التفاعل لدرجة أنه يمكن أن يشعل النار في الماء."
+    },
+    {
+      "id": "qf-28-07",
+      "categoryEn": "Chemistry & Elements",
+      "categoryAr": "الكيمياء والعناصر",
+      "textEn": "Neon signs only glow red; all other colors are created using different gases.",
+      "textAr": "لافتات النيون تتوهج باللون الأحمر فقط؛ جميع الألوان الأخرى يتم إنشاؤها باستخدام غازات مختلفة."
+    },
+    {
+      "id": "qf-28-08",
+      "categoryEn": "Chemistry & Elements",
+      "categoryAr": "الكيمياء والعناصر",
+      "textEn": "Bismuth crystals naturally form in stair-step structures and rainbow colors.",
+      "textAr": "تتبلور بلورات البزموت بشكل طبيعي في هياكل متدرجة وألوان تشبه قوس قزح."
+    },
+    {
+      "id": "qf-28-09",
+      "categoryEn": "Chemistry & Elements",
+      "categoryAr": "الكيمياء والعناصر",
+      "textEn": "The smell of rain is caused by a chemical compound called geosmin.",
+      "textAr": "رائحة المطر ناتجة عن مركب كيميائي يسمى الجيوسمين."
+    },
+    {
+      "id": "qf-28-10",
+      "categoryEn": "Chemistry & Elements",
+      "categoryAr": "الكيمياء والعناصر",
+      "textEn": "Lithium is the lightest metal and floats on oil.",
+      "textAr": "الليثيوم هو أخف معدن ويطفو على الزيت."
+    },
+    {
+      "id": "qf-29-01",
+      "categoryEn": "Daily Life & Household",
+      "categoryAr": "الحياة اليومية والمنزلية",
+      "textEn": "The ridges on the edges of coins were originally designed to prevent counterfeiting.",
+      "textAr": "صُممت الحواف الخشنة على أطراف العملات المعدنية في الأصل لمنع التزوير."
+    },
+    {
+      "id": "qf-29-02",
+      "categoryEn": "Daily Life & Household",
+      "categoryAr": "الحياة اليومية والمنزلية",
+      "textEn": "Dust in your home is mostly made of dead skin cells.",
+      "textAr": "الغبار في منزلك يتكون في الغالب من خلايا الجلد الميتة."
+    },
+    {
+      "id": "qf-29-03",
+      "categoryEn": "Daily Life & Household",
+      "categoryAr": "الحياة اليومية والمنزلية",
+      "textEn": "Toilet paper was invented in China in the 6th century.",
+      "textAr": "تم اختراع ورق التواليت في الصين في القرن السادس."
+    },
+    {
+      "id": "qf-29-04",
+      "categoryEn": "Daily Life & Household",
+      "categoryAr": "الحياة اليومية والمنزلية",
+      "textEn": "Bubble wrap was originally invented to be 3D wallpaper.",
+      "textAr": "تم اختراع غلاف الفقاعات البلاستيكي (بابل راب) في الأصل ليكون ورق حائط ثلاثي الأبعاد."
+    },
+    {
+      "id": "qf-29-05",
+      "categoryEn": "Daily Life & Household",
+      "categoryAr": "الحياة اليومية والمنزلية",
+      "textEn": "A standard No. 2 pencil can draw a line 35 miles long.",
+      "textAr": "يمكن لقلم الرصاص القياسي رقم 2 رسم خط طوله 35 ميلًا."
+    },
+    {
+      "id": "qf-29-06",
+      "categoryEn": "Daily Life & Household",
+      "categoryAr": "الحياة اليومية والمنزلية",
+      "textEn": "Mirrors have a slight green tint to them.",
+      "textAr": "المرايا لها مسحة خضراء خفيفة."
+    },
+    {
+      "id": "qf-29-07",
+      "categoryEn": "Daily Life & Household",
+      "categoryAr": "الحياة اليومية والمنزلية",
+      "textEn": "The plastic bit at the end of a shoelace is called an aglet.",
+      "textAr": "القطعة البلاستيكية الموجودة في نهاية رباط الحذاء تسمى \"أجليت\" (Aglet)."
+    },
+    {
+      "id": "qf-29-08",
+      "categoryEn": "Daily Life & Household",
+      "categoryAr": "الحياة اليومية والمنزلية",
+      "textEn": "Microwaves were invented after a chocolate bar melted in an engineer's pocket.",
+      "textAr": "تم اختراع أفران الميكروويف بعد أن ذاب لوح شوكولاتة في جيب مهندس رادار."
+    },
+    {
+      "id": "qf-29-09",
+      "categoryEn": "Daily Life & Household",
+      "categoryAr": "الحياة اليومية والمنزلية",
+      "textEn": "Your mattress doubles in weight every 10 years due to dust mites and sweat.",
+      "textAr": "يتضاعف وزن مرتبتك كل 10 سنوات بسبب عث الغبار والعرق."
+    },
+    {
+      "id": "qf-29-10",
+      "categoryEn": "Daily Life & Household",
+      "categoryAr": "الحياة اليومية والمنزلية",
+      "textEn": "The snooze button on clocks was set to 9 minutes because of old mechanical gear limitations.",
+      "textAr": "تم ضبط زر الغفوة في الساعات على 9 دقائق بسبب قيود التروس الميكانيكية القديمة."
+    },
+    {
+      "id": "qf-30-01",
+      "categoryEn": "World Records & Extremes",
+      "categoryAr": "الأرقام القياسية والتطرف",
+      "textEn": "The tallest person in medical history, Robert Wadlow, was 8 ft 11 in (2.72m) tall.",
+      "textAr": "أطول شخص في التاريخ الطبي، روبرت وادلو، بلغ طوله 8 أقدام و 11 بوصة (2.72 متر)."
+    },
+    {
+      "id": "qf-30-02",
+      "categoryEn": "World Records & Extremes",
+      "categoryAr": "الأرقام القياسية والتطرف",
+      "textEn": "The loudest animal on Earth is the sperm whale.",
+      "textAr": "أعلى الحيوانات صوتًا على وجه الأرض هو حوت العنبر."
+    },
+    {
+      "id": "qf-30-03",
+      "categoryEn": "World Records & Extremes",
+      "categoryAr": "الأرقام القياسية والتطرف",
+      "textEn": "The most expensive coin ever sold is the 1794 Flowing Hair Silver Dollar for $10 million.",
+      "textAr": "أغلى عملة معدنية بيعت على الإطلاق هي دولار الفضة ذو الشعر المتدفق لعام 1794 مقابل 10 ملايين دولار."
+    },
+    {
+      "id": "qf-30-04",
+      "categoryEn": "World Records & Extremes",
+      "categoryAr": "الأرقام القياسية والتطرف",
+      "textEn": "The fastest recorded raindrop fell at 22 mph.",
+      "textAr": "أسرع قطرة مطر مسجلة سقطت بسرعة 22 ميلًا في الساعة."
+    },
+    {
+      "id": "qf-30-05",
+      "categoryEn": "World Records & Extremes",
+      "categoryAr": "الأرقام القياسية والتطرف",
+      "textEn": "The longest word ever spoken took over 3 hours to pronounce (Titin protein).",
+      "textAr": "أطول كلمة نُطقت على الإطلاق استغرقت أكثر من 3 ساعات لنطقها (بروتين تيتين)."
+    },
+    {
+      "id": "qf-30-06",
+      "categoryEn": "World Records & Extremes",
+      "categoryAr": "الأرقام القياسية والتطرف",
+      "textEn": "The heaviest hailstone on record weighed 2.25 pounds.",
+      "textAr": "أثقل حبة برد مسجلة بلغ وزنها 2.25 رطل."
+    },
+    {
+      "id": "qf-30-07",
+      "categoryEn": "World Records & Extremes",
+      "categoryAr": "الأرقام القياسية والتطرف",
+      "textEn": "The longest hiccup attack lasted for 68 years.",
+      "textAr": "أطول نوبة فواق (زغطة) استمرت لمدة 68 عامًا."
+    },
+    {
+      "id": "qf-30-08",
+      "categoryEn": "World Records & Extremes",
+      "categoryAr": "الأرقام القياسية والتطرف",
+      "textEn": "The most isolated inhabited place on Earth is Tristan da Cunha in the Atlantic Ocean.",
+      "textAr": "المكان المأهول الأكثر عزلة على وجه الأرض هو تريستان دا كونا في المحيط الأطلسي."
+    },
+    {
+      "id": "qf-30-09",
+      "categoryEn": "World Records & Extremes",
+      "categoryAr": "الأرقام القياسية والتطرف",
+      "textEn": "The fastest land animal is the cheetah, reaching 75 mph.",
+      "textAr": "أسرع حيوان بري هو الفهد، حيث تصل سرعته إلى 75 ميلًا في الساعة."
+    },
+    {
+      "id": "qf-30-10",
+      "categoryEn": "World Records & Extremes",
+      "categoryAr": "الأرقام القياسية والتطرف",
+      "textEn": "The highest temperature ever reliably recorded on Earth was 134°F (56.7°C) in Death Valley.",
+      "textAr": "أعلى درجة حرارة سُجلت بشكل موثوق على الأرض كانت 134 درجة فهرنهايت (56.7 درجة مئوية) في وادي الموت."
+    },
+    {
+      "id": "qf-31-01",
+      "categoryEn": "Art & Creative Expression",
+      "categoryAr": "الفن والتعبير الإبداعي",
+      "textEn": "The 'Blue Period' of Picasso refers to the period between 1901 and 1904 when he painted in shades of blue and green.",
+      "textAr": "تشير \"الفترة الزرقاء\" لبيكاسو إلى الفترة بين عامي 1901 و1904 عندما كان يرسم بظلال اللونين الأزرق والأخضر."
+    },
+    {
+      "id": "qf-31-02",
+      "categoryEn": "Art & Creative Expression",
+      "categoryAr": "الفن والتعبير الإبداعي",
+      "textEn": "Oil paint takes much longer to dry than acrylic paint.",
+      "textAr": "يستغرق الطلاء الزيتي وقتًا أطول بكثير ليجف مقارنة بطلاء الأكريليك."
+    },
+    {
+      "id": "qf-31-03",
+      "categoryEn": "Art & Creative Expression",
+      "categoryAr": "الفن والتعبير الإبداعي",
+      "textEn": "The oldest cave paintings are over 40,000 years old.",
+      "textAr": "أقدم رسومات الكهوف يعود تاريخها لأكثر من 40 ألف عام."
+    },
+    {
+      "id": "qf-31-04",
+      "categoryEn": "Art & Creative Expression",
+      "categoryAr": "الفن والتعبير الإبداعي",
+      "textEn": "Banksy, the famous street artist, has never revealed his true identity.",
+      "textAr": "بانكسي، فنان الشارع الشهير، لم يكشف أبدًا عن هويته الحقيقية."
+    },
+    {
+      "id": "qf-31-05",
+      "categoryEn": "Art & Creative Expression",
+      "categoryAr": "الفن والتعبير الإبداعي",
+      "textEn": "Origami is the Japanese art of paper folding; \"ori\" means folding and \"kami\" means paper.",
+      "textAr": "الأوريجامي هو الفن الياباني لطي الورق؛ \"أوري\" تعني طي و \"كامي\" تعني ورق."
+    },
+    {
+      "id": "qf-32-01",
+      "categoryEn": "Space Exploration",
+      "categoryAr": "استكشاف الفضاء",
+      "textEn": "There are more stars in the universe than grains of sand on all Earth's beaches combined.",
+      "textAr": "عدد النجوم في الكون أكبر من عدد حبات الرمل على جميع شواطئ الأرض مجتمعة."
+    },
+    {
+      "id": "qf-32-02",
+      "categoryEn": "Space Exploration",
+      "categoryAr": "استكشاف الفضاء",
+      "textEn": "The moon is drifting away from Earth at a rate of 3.8 cm per year.",
+      "textAr": "يبتعد القمر عن الأرض بمعدل 3.8 سم سنويًا."
+    },
+    {
+      "id": "qf-32-03",
+      "categoryEn": "Space Exploration",
+      "categoryAr": "استكشاف الفضاء",
+      "textEn": "If two pieces of the same type of metal touch in space, they will bond and be permanently stuck together.",
+      "textAr": "إذا تلامست قطعتان من نفس النوع من المعدن في الفضاء، فإنهما ستلتحمان وتلتصقان ببعضهما بشكل دائم."
+    },
+    {
+      "id": "qf-32-04",
+      "categoryEn": "Space Exploration",
+      "categoryAr": "استكشاف الفضاء",
+      "textEn": "We only see one side of the moon because it is \"tidally locked\" to Earth.",
+      "textAr": "نحن نرى جانبًا واحدًا فقط من القمر لأنه \"مقيد مدياً\" بالأرض."
+    },
+    {
+      "id": "qf-32-05",
+      "categoryEn": "Space Exploration",
+      "categoryAr": "استكشاف الفضاء",
+      "textEn": "A sunset on Mars appears blue.",
+      "textAr": "يظهر غروب الشمس على كوكب المريخ باللون الأزرق."
+    },
+    {
+      "id": "qf-33-01",
+      "categoryEn": "Pop Culture & Media",
+      "categoryAr": "الثقافة الشعبية والإعلام",
+      "textEn": "The first voice ever recorded was by Thomas Edison in 1877.",
+      "textAr": "أول صوت سُجل على الإطلاق كان بواسطة توماس إديسون في عام 1877."
+    },
+    {
+      "id": "qf-33-02",
+      "categoryEn": "Pop Culture & Media",
+      "categoryAr": "الثقافة الشعبية والإعلام",
+      "textEn": "The \"Oscars\" statuette is officially named the Academy Award of Merit.",
+      "textAr": "الاسم الرسمي لتمثال \"الأوسكار\" هو جائزة الأكاديمية للاستحقاق."
+    },
+    {
+      "id": "qf-33-03",
+      "categoryEn": "Pop Culture & Media",
+      "categoryAr": "الثقافة الشعبية والإعلام",
+      "textEn": "Harry Potter was rejected by 12 different publishers before being accepted.",
+      "textAr": "رُفضت رواية هاري بوتر من قبل 12 ناشرًا مختلفًا قبل قبولها."
+    },
+    {
+      "id": "qf-33-04",
+      "categoryEn": "Pop Culture & Media",
+      "categoryAr": "الثقافة الشعبية والإعلام",
+      "textEn": "The \"Wilhelm scream\" is a stock sound effect used in over 400 movies.",
+      "textAr": "\"صرخة ويلهلم\" هي مؤثر صوتي محفوظ يُستخدم في أكثر من 400 فيلم."
+    },
+    {
+      "id": "qf-33-05",
+      "categoryEn": "Pop Culture & Media",
+      "categoryAr": "الثقافة الشعبية والإعلام",
+      "textEn": "The first feature-length animated movie was \"Snow White and the Seven Dwarfs\" (1937).",
+      "textAr": "أول فيلم رسوم متحركة طويل كان \"سنو وايت والأقزام السبعة\" (1937)."
+    },
+    {
+      "id": "qf-34-01",
+      "categoryEn": "Genetics & Evolution",
+      "categoryAr": "علم الوراثة والتطور",
+      "textEn": "All blue-eyed people share a single common ancestor who lived 6,000 to 10,000 years ago.",
+      "textAr": "جميع ذوي العيون الزرقاء يتشاركون في سلف واحد عاش قبل 6,000 إلى 10,000 عام."
+    },
+    {
+      "id": "qf-34-02",
+      "categoryEn": "Genetics & Evolution",
+      "categoryAr": "علم الوراثة والتطور",
+      "textEn": "Humans share about 98.8% of their DNA with chimpanzees.",
+      "textAr": "يتشارك البشر حوالي 98.8% من حمضهم النووي مع الشمبانزي."
+    },
+    {
+      "id": "qf-34-03",
+      "categoryEn": "Genetics & Evolution",
+      "categoryAr": "علم الوراثة والتطور",
+      "textEn": "Your taste buds are replaced every 1 to 2 weeks.",
+      "textAr": "تتجدد براعم التذوق لديك كل أسبوع إلى أسبوعين."
+    },
+    {
+      "id": "qf-34-04",
+      "categoryEn": "Genetics & Evolution",
+      "categoryAr": "علم الوراثة والتطور",
+      "textEn": "Evolutionary traits like wisdom teeth are becoming rarer as humans evolve.",
+      "textAr": "الصفات التطورية مثل ضرس العقل أصبحت أكثر ندرة مع تطور البشر."
+    },
+    {
+      "id": "qf-34-05",
+      "categoryEn": "Genetics & Evolution",
+      "categoryAr": "علم الوراثة والتطور",
+      "textEn": "All humans are 99.9% genetically identical.",
+      "textAr": "جميع البشر متطابقون وراثيًا بنسبة 99.9%."
+    },
+    {
+      "id": "qf-35-01",
+      "categoryEn": "Architecture & Landmarks",
+      "categoryAr": "العمارة والمعالم",
+      "textEn": "The Great Sphinx of Giza was likely painted in bright colors originally.",
+      "textAr": "من المحتمل أن تمثال أبو الهول بالجيزة كان مطليًا بألوان زاهية في الأصل."
+    },
+    {
+      "id": "qf-35-02",
+      "categoryEn": "Architecture & Landmarks",
+      "categoryAr": "العمارة والمعالم",
+      "textEn": "The Colosseum could seat up to 50,000 spectators.",
+      "textAr": "كان الكولوسيوم يتسع لما يصل إلى 50,000 متفرج."
+    },
+    {
+      "id": "qf-35-03",
+      "categoryEn": "Architecture & Landmarks",
+      "categoryAr": "العمارة والمعالم",
+      "textEn": "The Louvre Museum would take about 100 days to see every piece if you spent 30 seconds on each.",
+      "textAr": "سيستغرق متحف اللوفر حوالي 100 يوم لرؤية كل قطعة إذا قضيت 30 ثانية في مشاهدة كل واحدة."
+    },
+    {
+      "id": "qf-35-04",
+      "categoryEn": "Architecture & Landmarks",
+      "categoryAr": "العمارة والمعالم",
+      "textEn": "St. Peter's Basilica in the Vatican is the largest church in the world.",
+      "textAr": "كاتدرائية القديس بطرس في الفاتيكان هي أكبر كنيسة في العالم."
+    },
+    {
+      "id": "qf-35-05",
+      "categoryEn": "Architecture & Landmarks",
+      "categoryAr": "العمارة والمعالم",
+      "textEn": "The Gateway Arch in St. Louis is exactly as wide as it is tall (630 feet).",
+      "textAr": "يبلغ عرض \"بوابة القوس\" في سانت لويس نفس ارتفاعها تمامًا (630 قدمًا)."
+    },
+    {
+      "id": "qf-36-01",
+      "categoryEn": "Math & Logic",
+      "categoryAr": "الرياضيات والمنطق",
+      "textEn": "A \"googol\" is 1 followed by 100 zeros.",
+      "textAr": "الـ \"جوجول\" هو الرقم 1 متبوعًا بـ 100 صفر."
+    },
+    {
+      "id": "qf-36-02",
+      "categoryEn": "Math & Logic",
+      "categoryAr": "الرياضيات والمنطق",
+      "textEn": "The golden ratio (approximately 1.618) is found in nature, art, and architecture.",
+      "textAr": "النسبة الذهبية (حوالي 1.618) موجودة في الطبيعة والفن والعمارة."
+    },
+    {
+      "id": "qf-36-03",
+      "categoryEn": "Math & Logic",
+      "categoryAr": "الرياضيات والمنطق",
+      "textEn": "A circle has the shortest perimeter for the largest area of any shape.",
+      "textAr": "الدائرة لها أقصر محيط لأكبر مساحة مقارنة بأي شكل آخر."
+    },
+    {
+      "id": "qf-36-04",
+      "categoryEn": "Math & Logic",
+      "categoryAr": "الرياضيات والمنطق",
+      "textEn": "Binary code is the base-2 system that powers all modern computers.",
+      "textAr": "الرمز الثنائي هو نظام العد ذو الأساس 2 الذي يشغل جميع أجهزة الكمبيوتر الحديثة."
+    },
+    {
+      "id": "qf-36-05",
+      "categoryEn": "Math & Logic",
+      "categoryAr": "الرياضيات والمنطق",
+      "textEn": "Pi is an irrational number, meaning it never ends or repeats.",
+      "textAr": "\"باي\" هو عدد غير نسبي، مما يعني أنه لا ينتهي ولا يتكرر أبدًا."
+    },
+    {
+      "id": "qf-37-01",
+      "categoryEn": "Geography & Culture",
+      "categoryAr": "الجغرافيا والثقافات",
+      "textEn": "In Japan, it is considered polite to slurp your noodles.",
+      "textAr": "في اليابان، يُعتبر إصدار صوت أثناء أكل المعكرونة علامة على الأدب."
+    },
+    {
+      "id": "qf-37-02",
+      "categoryEn": "Geography & Culture",
+      "categoryAr": "الجغرافيا والثقافات",
+      "textEn": "The shortest commercial flight in the world lasts only 90 seconds.",
+      "textAr": "أقصر رحلة طيران تجارية في العالم تستغرق 90 ثانية فقط."
+    },
+    {
+      "id": "qf-37-03",
+      "categoryEn": "Geography & Culture",
+      "categoryAr": "الجغرافيا والثقافات",
+      "textEn": "There are more islands in Sweden than in any other country in the world.",
+      "textAr": "توجد جزر في السويد أكثر من أي دولة أخرى في العالم."
+    },
+    {
+      "id": "qf-37-04",
+      "categoryEn": "Geography & Culture",
+      "categoryAr": "الجغرافيا والثقافات",
+      "textEn": "Bhutan is the only country that measures its success by \"Gross National Happiness.\"",
+      "textAr": "بوتان هي الدولة الوحيدة التي تقيس نجاحها بـ \"إجمالي السعادة الوطنية\"."
+    },
+    {
+      "id": "qf-37-05",
+      "categoryEn": "Geography & Culture",
+      "categoryAr": "الجغرافيا والثقافات",
+      "textEn": "The Sahara Desert used to be a lush green tropical forest.",
+      "textAr": "كانت صحراء الصحراء الكبرى في السابق غابة استوائية خضراء وارفة."
+    },
+    {
+      "id": "qf-38-01",
+      "categoryEn": "History & Traditions",
+      "categoryAr": "التاريخ والتقاليد",
+      "textEn": "The first umbrella was used in Mesopotamia over 3,000 years ago.",
+      "textAr": "استُخدمت أول مظلة (شمسية) في بلاد ما بين النهرين قبل أكثر من 3000 عام."
+    },
+    {
+      "id": "qf-38-02",
+      "categoryEn": "History & Traditions",
+      "categoryAr": "التاريخ والتقاليد",
+      "textEn": "The ancient Olympic Games included contests in poetry and music, not just sports.",
+      "textAr": "الألعاب الأولمبية القديمة كانت تشمل مسابقات في الشعر والموسيقى، وليس الرياضة فقط."
+    },
+    {
+      "id": "qf-38-03",
+      "categoryEn": "History & Traditions",
+      "categoryAr": "التاريخ والتقاليد",
+      "textEn": "The printing press, invented by Johannes Gutenberg, triggered the \"Information Age\" of the Renaissance.",
+      "textAr": "المطبعة، التي اخترعها يوهانس جوتنبرج، أطلقت \"عصر المعلومات\" في عصر النهضة."
+    },
+    {
+      "id": "qf-38-04",
+      "categoryEn": "History & Traditions",
+      "categoryAr": "التاريخ والتقاليد",
+      "textEn": "The Aztec Empire practiced human sacrifice to appease their gods.",
+      "textAr": "كانت إمبراطورية الآزتيك تمارس التضحية البشرية لإرضاء آلهتها."
+    },
+    {
+      "id": "qf-38-05",
+      "categoryEn": "History & Traditions",
+      "categoryAr": "التاريخ والتقاليد",
+      "textEn": "Napoleon Bonaparte was actually of average height for his time, not short.",
+      "textAr": "كان نابليون بونابرت في الواقع متوسط الطول بالنسبة لعصره، ولم يكن قصير القامة."
+    },
+    {
+      "id": "qf-39-01",
+      "categoryEn": "Animals & Biology",
+      "categoryAr": "الحيوانات وعلم الأحياء",
+      "textEn": "A blue whale's tongue weighs as much as an elephant.",
+      "textAr": "لسان الحوت الأزرق يزن بقدر وزن فيل."
+    },
+    {
+      "id": "qf-39-02",
+      "categoryEn": "Animals & Biology",
+      "categoryAr": "الحيوانات وعلم الأحياء",
+      "textEn": "Seahorses are the only species where the male carries the eggs.",
+      "textAr": "فرس البحر هو النوع الوحيد الذي يحمل فيه الذكر البيض."
+    },
+    {
+      "id": "qf-39-03",
+      "categoryEn": "Animals & Biology",
+      "categoryAr": "الحيوانات وعلم الأحياء",
+      "textEn": "A cat's ear has 32 muscles.",
+      "textAr": "أذن القطة تحتوي على 32 عضلة."
+    },
+    {
+      "id": "qf-39-04",
+      "categoryEn": "Animals & Biology",
+      "categoryAr": "الحيوانات وعلم الأحياء",
+      "textEn": "Penguins have a gland above their eyes that turns seawater into fresh water.",
+      "textAr": "تمتلك طيور البطريق غدة فوق أعينها تحول مياه البحر إلى مياه عذبة."
+    },
+    {
+      "id": "qf-39-05",
+      "categoryEn": "Animals & Biology",
+      "categoryAr": "الحيوانات وعلم الأحياء",
+      "textEn": "Sharks have been around longer than trees.",
+      "textAr": "القروش موجودة منذ فترة أطول من الأشجار."
+    },
+    {
+      "id": "qf-40-01",
+      "categoryEn": "Music & Sound",
+      "categoryAr": "الموسيقى والصوت",
+      "textEn": "Silence is the most famous piece by John Cage; it is four minutes and 33 seconds of silence.",
+      "textAr": "\"الصمت\" هي أشهر مقطوعة لجون كيج؛ وهي عبارة عن أربع دقائق و33 ثانية من الصمت."
+    },
+    {
+      "id": "qf-40-02",
+      "categoryEn": "Music & Sound",
+      "categoryAr": "الموسيقى والصوت",
+      "textEn": "The most common instrument in the world is the human voice.",
+      "textAr": "الآلة الأكثر شيوعًا في العالم هي صوت الإنسان."
+    },
+    {
+      "id": "qf-40-03",
+      "categoryEn": "Music & Sound",
+      "categoryAr": "الموسيقى والصوت",
+      "textEn": "Listening to music while exercising can improve physical performance.",
+      "textAr": "الاستماع إلى الموسيقى أثناء ممارسة الرياضة يمكن أن يحسن الأداء البدني."
+    },
+    {
+      "id": "qf-40-04",
+      "categoryEn": "Music & Sound",
+      "categoryAr": "الموسيقى والصوت",
+      "textEn": "Music activates every part of the brain.",
+      "textAr": "الموسيقى تنشط كل جزء من الدماغ."
+    },
+    {
+      "id": "qf-40-05",
+      "categoryEn": "Music & Sound",
+      "categoryAr": "الموسيقى والصوت",
+      "textEn": "The longest song ever released is over 100 hours long.",
+      "textAr": "أطول أغنية تم إصدارها على الإطلاق تزيد مدتها عن 100 ساعة."
+    },
+    {
+      "id": "qf-41-01",
+      "categoryEn": "Culinary Oddities",
+      "categoryAr": "عجائب الطهي",
+      "textEn": "Honey is the only food that doesn't expire.",
+      "textAr": "العسل هو الطعام الوحيد الذي لا تنتهي صلاحيته."
+    },
+    {
+      "id": "qf-41-02",
+      "categoryEn": "Culinary Oddities",
+      "categoryAr": "عجائب الطهي",
+      "textEn": "Wasabi in most restaurants is actually just dyed horseradish.",
+      "textAr": "الواسابي في معظم المطاعم هو في الواقع مجرد فجل حار ملون."
+    },
+    {
+      "id": "qf-41-03",
+      "categoryEn": "Culinary Oddities",
+      "categoryAr": "عجائب الطهي",
+      "textEn": "The Hawaiian pizza was invented in Canada.",
+      "textAr": "البيتزا بالأناناس (هاواي) تم ابتكارها في كندا."
+    },
+    {
+      "id": "qf-41-04",
+      "categoryEn": "Culinary Oddities",
+      "categoryAr": "عجائب الطهي",
+      "textEn": "Figs are pollinated by wasps that die inside them.",
+      "textAr": "يتم تلقيح التين بواسطة دبابير تموت بداخلها."
+    },
+    {
+      "id": "qf-41-05",
+      "categoryEn": "Culinary Oddities",
+      "categoryAr": "عجائب الطهي",
+      "textEn": "Coffee was discovered by a goat herder in Ethiopia.",
+      "textAr": "اكتشف راعي ماعز القهوة في إثيوبيا."
+    },
+    {
+      "id": "qf-42-01",
+      "categoryEn": "Psychology & The Mind",
+      "categoryAr": "علم النفس والعقل",
+      "textEn": "We remember negative experiences more vividly than positive ones.",
+      "textAr": "نحن نتذكر التجارب السلبية بشكل أوضح من الإيجابية."
+    },
+    {
+      "id": "qf-42-02",
+      "categoryEn": "Psychology & The Mind",
+      "categoryAr": "علم النفس والعقل",
+      "textEn": "Music helps you concentrate by reducing background noise distraction.",
+      "textAr": "تساعدك الموسيقى على التركيز عن طريق تقليل تشتيت الضوضاء الخلفية."
+    },
+    {
+      "id": "qf-42-03",
+      "categoryEn": "Psychology & The Mind",
+      "categoryAr": "علم النفس والعقل",
+      "textEn": "The \"Spotlight Effect\" is the tendency to believe others are noticing our appearance more than they actually are.",
+      "textAr": "\"تأثير الضوء\" هو الميل للاعتقاد بأن الآخرين يلاحظون مظهرنا أكثر مما يفعلون في الواقع."
+    },
+    {
+      "id": "qf-42-04",
+      "categoryEn": "Psychology & The Mind",
+      "categoryAr": "علم النفس والعقل",
+      "textEn": "It takes about 66 days to form a new habit.",
+      "textAr": "يستغرق تكوين عادة جديدة حوالي 66 يومًا."
+    },
+    {
+      "id": "qf-42-05",
+      "categoryEn": "Psychology & The Mind",
+      "categoryAr": "علم النفس والعقل",
+      "textEn": "Your brain can generate enough electricity to power a small lightbulb.",
+      "textAr": "يمكن لدماغك توليد كهرباء كافية لتشغيل مصباح كهربائي صغير."
+    },
+    {
+      "id": "qf-43-01",
+      "categoryEn": "Language & Linguistics",
+      "categoryAr": "اللغة واللغويات",
+      "textEn": "There is no word that rhymes with \"orange\" in English.",
+      "textAr": "لا توجد كلمة لها نفس قافية كلمة \"orange\" (برتقالة) بالإنجليزية."
+    },
+    {
+      "id": "qf-43-02",
+      "categoryEn": "Language & Linguistics",
+      "categoryAr": "اللغة واللغويات",
+      "textEn": "The longest English word without a vowel is \"rhythms\".",
+      "textAr": "أطول كلمة إنجليزية بدون حرف علة هي \"rhythms\" (إيقاعات)."
+    },
+    {
+      "id": "qf-43-03",
+      "categoryEn": "Language & Linguistics",
+      "categoryAr": "اللغة واللغويات",
+      "textEn": "\"Set\" has the highest number of definitions of any word in the English language.",
+      "textAr": "كلمة \"Set\" لديها أكبر عدد من التعريفات لأي كلمة في اللغة الإنجليزية."
+    },
+    {
+      "id": "qf-43-04",
+      "categoryEn": "Language & Linguistics",
+      "categoryAr": "اللغة واللغويات",
+      "textEn": "The oldest written language still in use is Chinese.",
+      "textAr": "أقدم لغة مكتوبة لا تزال قيد الاستخدام هي الصينية."
+    },
+    {
+      "id": "qf-43-05",
+      "categoryEn": "Language & Linguistics",
+      "categoryAr": "اللغة واللغويات",
+      "textEn": "Arabic is one of the six official languages of the United Nations.",
+      "textAr": "اللغة العربية هي واحدة من اللغات الرسمية الست للأمم المتحدة."
+    },
+    {
+      "id": "qf-44-01",
+      "categoryEn": "Astronomy & Physics",
+      "categoryAr": "الفلك والفيزياء",
+      "textEn": "Time passes faster for your head than your feet (Relativity).",
+      "textAr": "الوقت يمر بشكل أسرع بالنسبة لرأسك مقارنة بقدميك (النسبية)."
+    },
+    {
+      "id": "qf-44-02",
+      "categoryEn": "Astronomy & Physics",
+      "categoryAr": "الفلك والفيزياء",
+      "textEn": "Light takes 8 minutes to travel from the Sun to Earth.",
+      "textAr": "يستغرق الضوء 8 دقائق للسفر من الشمس إلى الأرض."
+    },
+    {
+      "id": "qf-44-03",
+      "categoryEn": "Astronomy & Physics",
+      "categoryAr": "الفلك والفيزياء",
+      "textEn": "Dark matter makes up about 85% of the universe's matter.",
+      "textAr": "تشكل المادة المظلمة حوالي 85% من مادة الكون."
+    },
+    {
+      "id": "qf-44-04",
+      "categoryEn": "Astronomy & Physics",
+      "categoryAr": "الفلك والفيزياء",
+      "textEn": "A black hole is an area where gravity is so strong that not even light can escape.",
+      "textAr": "الثقب الأسود هو منطقة تكون فيها الجاذبية قوية جدًا لدرجة أنه حتى الضوء لا يمكنه الهروب."
+    },
+    {
+      "id": "qf-44-05",
+      "categoryEn": "Astronomy & Physics",
+      "categoryAr": "الفلك والفيزياء",
+      "textEn": "There are more atoms in a single human body than stars in the galaxy.",
+      "textAr": "توجد ذرات في جسم الإنسان الواحد أكثر من عدد النجوم في المجرة."
+    },
+    {
+      "id": "qf-45-01",
+      "categoryEn": "Business & Work",
+      "categoryAr": "الأعمال والعمل",
+      "textEn": "The first \"CEO\" is a modern title that gained popularity only in the 20th century.",
+      "textAr": "\"الرئيس التنفيذي\" هو لقب حديث اكتسب شعبية فقط في القرن العشرين."
+    },
+    {
+      "id": "qf-45-02",
+      "categoryEn": "Business & Work",
+      "categoryAr": "الأعمال والعمل",
+      "textEn": "The term \"9-to-5\" comes from a song by Dolly Parton.",
+      "textAr": "مصطلح \"من 9 إلى 5\" يأتي من أغنية لدولي بارتون."
+    },
+    {
+      "id": "qf-45-03",
+      "categoryEn": "Business & Work",
+      "categoryAr": "الأعمال والعمل",
+      "textEn": "Most startups fail within the first three years.",
+      "textAr": "تفشل معظم الشركات الناشئة خلال السنوات الثلاث الأولى."
+    },
+    {
+      "id": "qf-45-04",
+      "categoryEn": "Business & Work",
+      "categoryAr": "الأعمال والعمل",
+      "textEn": "The world's first stock market was established in Amsterdam in 1602.",
+      "textAr": "تم تأسيس أول سوق للأوراق المالية في العالم في أمستردام عام 1602."
+    },
+    {
+      "id": "qf-45-05",
+      "categoryEn": "Business & Work",
+      "categoryAr": "الأعمال والعمل",
+      "textEn": "The richest person in history, Mansa Musa, was an African king.",
+      "textAr": "أغنى شخص في التاريخ، منسى موسى، كان ملكًا إفريقيًا."
+    },
+    {
+      "id": "qf-46-01",
+      "categoryEn": "Natural Wonders",
+      "categoryAr": "العجائب الطبيعية",
+      "textEn": "Diamonds are found in volcanic pipes.",
+      "textAr": "توجد الألماس في الأنابيب البركانية."
+    },
+    {
+      "id": "qf-46-02",
+      "categoryEn": "Natural Wonders",
+      "categoryAr": "العجائب الطبيعية",
+      "textEn": "The Amazon river has more water than the next seven largest rivers combined.",
+      "textAr": "نهر الأمازون يحتوي على مياه أكثر من الأنهار السبعة التالية له مجتمعة."
+    },
+    {
+      "id": "qf-46-03",
+      "categoryEn": "Natural Wonders",
+      "categoryAr": "العجائب الطبيعية",
+      "textEn": "Mountains are formed by tectonic plates colliding.",
+      "textAr": "تتشكل الجبال نتيجة تصادم الصفائح التكتونية."
+    },
+    {
+      "id": "qf-46-04",
+      "categoryEn": "Natural Wonders",
+      "categoryAr": "العجائب الطبيعية",
+      "textEn": "Glaciers hold about 69% of the world's fresh water.",
+      "textAr": "تحتوي الأنهار الجليدية على حوالي 69% من المياه العذبة في العالم."
+    },
+    {
+      "id": "qf-46-05",
+      "categoryEn": "Natural Wonders",
+      "categoryAr": "العجائب الطبيعية",
+      "textEn": "The Grand Canyon was carved by the Colorado River over millions of years.",
+      "textAr": "تم نحت جراند كانيون بواسطة نهر كولورادو على مدى ملايين السنين."
+    },
+    {
+      "id": "qf-47-01",
+      "categoryEn": "Energy & Technology",
+      "categoryAr": "الطاقة والتكنولوجيا",
+      "textEn": "The first video game was created in 1958.",
+      "textAr": "تم إنشاء أول لعبة فيديو في عام 1958."
+    },
+    {
+      "id": "qf-47-02",
+      "categoryEn": "Energy & Technology",
+      "categoryAr": "الطاقة والتكنولوجيا",
+      "textEn": "Solar energy can power the world if collected efficiently.",
+      "textAr": "الطاقة الشمسية يمكن أن تغذي العالم إذا تم جمعها بكفاءة."
+    },
+    {
+      "id": "qf-47-03",
+      "categoryEn": "Energy & Technology",
+      "categoryAr": "الطاقة والتكنولوجيا",
+      "textEn": "Wind energy is one of the fastest-growing sources of electricity.",
+      "textAr": "طاقة الرياح هي واحدة من أسرع مصادر الكهرباء نموًا."
+    },
+    {
+      "id": "qf-47-04",
+      "categoryEn": "Energy & Technology",
+      "categoryAr": "الطاقة والتكنولوجيا",
+      "textEn": "The first mobile phone call was made in 1973.",
+      "textAr": "تم إجراء أول مكالمة هاتفية محمولة في عام 1973."
+    },
+    {
+      "id": "qf-47-05",
+      "categoryEn": "Energy & Technology",
+      "categoryAr": "الطاقة والتكنولوجيا",
+      "textEn": "Artificial Intelligence is currently being used to discover new medicines.",
+      "textAr": "يتم استخدام الذكاء الاصطناعي حاليًا لاكتشاف أدوية جديدة."
+    },
+    {
+      "id": "qf-48-01",
+      "categoryEn": "Human Achievements",
+      "categoryAr": "إنجازات بشرية",
+      "textEn": "The Wright brothers made the first controlled flight in 1903.",
+      "textAr": "قام الأخوان رايت بأول رحلة جوية محكومة في عام 1903."
+    },
+    {
+      "id": "qf-48-02",
+      "categoryEn": "Human Achievements",
+      "categoryAr": "إنجازات بشرية",
+      "textEn": "The internet was originally a military project called ARPANET.",
+      "textAr": "كان الإنترنت في الأصل مشروعًا عسكريًا يسمى ARPANET."
+    },
+    {
+      "id": "qf-48-03",
+      "categoryEn": "Human Achievements",
+      "categoryAr": "إنجازات بشرية",
+      "textEn": "The first human in space was Yuri Gagarin.",
+      "textAr": "أول إنسان في الفضاء كان يوري جاجارين."
+    },
+    {
+      "id": "qf-48-04",
+      "categoryEn": "Human Achievements",
+      "categoryAr": "إنجازات بشرية",
+      "textEn": "The polio vaccine was one of the greatest medical achievements of the 20th century.",
+      "textAr": "كان لقاح شلل الأطفال أحد أعظم الإنجازات الطبية في القرن العشرين."
+    },
+    {
+      "id": "qf-48-05",
+      "categoryEn": "Human Achievements",
+      "categoryAr": "إنجازات بشرية",
+      "textEn": "The Global Positioning System (GPS) is maintained by the US Department of Defense.",
+      "textAr": "يتم صيانة نظام تحديد المواقع العالمي (GPS) من قبل وزارة الدفاع الأمريكية."
+    },
+    {
+      "id": "qf-49-01",
+      "categoryEn": "Environment & Sustainability",
+      "categoryAr": "البيئة والاستدامة",
+      "textEn": "Planting trees is one of the most effective ways to combat climate change.",
+      "textAr": "زراعة الأشجار هي واحدة من أكثر الطرق فعالية لمكافحة تغير المناخ."
+    },
+    {
+      "id": "qf-49-02",
+      "categoryEn": "Environment & Sustainability",
+      "categoryAr": "البيئة والاستدامة",
+      "textEn": "Plastic takes hundreds of years to decompose in the ocean.",
+      "textAr": "يستغرق البلاستيك مئات السنين ليتحلل في المحيط."
+    },
+    {
+      "id": "qf-49-03",
+      "categoryEn": "Environment & Sustainability",
+      "categoryAr": "البيئة والاستدامة",
+      "textEn": "Renewable energy sources are becoming cheaper than fossil fuels.",
+      "textAr": "أصبحت مصادر الطاقة المتجددة أرخص من الوقود الأحفوري."
+    },
+    {
+      "id": "qf-49-04",
+      "categoryEn": "Environment & Sustainability",
+      "categoryAr": "البيئة والاستدامة",
+      "textEn": "Urban farming can reduce the carbon footprint of food.",
+      "textAr": "الزراعة الحضرية يمكن أن تقلل من البصمة الكربونية للغذاء."
+    },
+    {
+      "id": "qf-49-05",
+      "categoryEn": "Environment & Sustainability",
+      "categoryAr": "البيئة والاستدامة",
+      "textEn": "Bees are essential for global food production.",
+      "textAr": "النحل ضروري لإنتاج الغذاء العالمي."
+    },
+    {
+      "id": "qf-50-01",
+      "categoryEn": "Final Curiosity",
+      "categoryAr": "فضول نهائي",
+      "textEn": "The \"heart\" symbol (♥) originated from the shape of a fig leaf or the seeds of the silphium plant.",
+      "textAr": "رمز \"القلب\" (♥) نشأ من شكل ورقة التين أو بذور نبات السيلفيوم."
+    },
+    {
+      "id": "qf-50-02",
+      "categoryEn": "Final Curiosity",
+      "categoryAr": "فضول نهائي",
+      "textEn": "Sunsets on other planets have different colors based on the atmosphere.",
+      "textAr": "غروب الشمس على الكواكب الأخرى له ألوان مختلفة بناءً على الغلاف الجوي."
+    },
+    {
+      "id": "qf-50-03",
+      "categoryEn": "Final Curiosity",
+      "categoryAr": "فضول نهائي",
+      "textEn": "The longest book ever written is over 13 million words long.",
+      "textAr": "أطول كتاب كُتب على الإطلاق يزيد طوله عن 13 مليون كلمة."
+    },
+    {
+      "id": "qf-50-04",
+      "categoryEn": "Final Curiosity",
+      "categoryAr": "فضول نهائي",
+      "textEn": "Your fingerprints are unique, even from your identical twin.",
+      "textAr": "بصمات أصابعك فريدة، حتى بالنسبة لتوأمك المتطابق."
+    },
+    {
+      "id": "qf-50-05",
+      "categoryEn": "Final Curiosity",
+      "categoryAr": "فضول نهائي",
+      "textEn": "The best way to learn something new is to teach it to someone else.",
+      "textAr": "أفضل طريقة لتعلم شيء جديد هي تدريسه لشخص آخر."
+    }
+  ]
+}

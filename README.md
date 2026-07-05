@@ -101,7 +101,12 @@ Remote content banks for the micro-games library (the short "doomscroll-interrup
   "pairFinderEmoji": ["🐱", "🐶"],
   "emojiEquationEmoji": ["🍎", "🍌"],
   "associationChain": [{ "a": "BREAD", "b": "BUTTER" }],
-  "letterNumberSwap": [["C", "A", "T"]]
+  "letterNumberSwap": [["C", "A", "T"]],
+  "wordLengthLadder": ["cat", "house", "elephant"],
+  "wordEquationLogic": [{ "a": "KING", "b": "MAN", "c": "WOMAN", "answer": "QUEEN" }],
+  "cipherDecoder": ["CAT", "DOG", "SUN"],
+  "wordSearchSnippet": [["C", "A", "T", "S"]],
+  "syllogismValidator": [{ "a": "Cats", "b": "Animals", "c": "Living Things" }]
 }
 ```
 
@@ -111,8 +116,33 @@ Remote content banks for the micro-games library (the short "doomscroll-interrup
 - `letterNumberSwap`: same shape as `wordScramble` (a word split into letters), but for a different game — it asks players to sum each letter's numeric value (English: A=1...Z=26; Arabic: traditional Abjad numerals). The app computes the sum itself from whatever letters you provide, so any real word works correctly automatically — no risk of a mismatched hand-authored answer.
 - `colorWordMatch`: `colorKey` **must** be one of the app's built-in supported keys — `red`, `blue`, `green`, `yellow`, `purple`, `orange`, `teal`, `pink`, `brown`, `cyan`, `indigo`, `mint` — since that maps to an actual system color in the app; `label` is just the bilingual display text, freely editable. A `colorKey` outside that list is ignored safely (falls back to bundled colors) rather than crashing anything.
 - `pairFinderEmoji` / `emojiEquationEmoji`: flat emoji lists, language-neutral (safe to keep identical in both files) — expand freely, native emoji need no art.
+- `wordLengthLadder`: a flat word list — the game samples one word per length-bucket itself, no need to pre-group by length.
+- `wordEquationLogic`: analogy quads for Word Equation Logic (`a − b + c = answer`, e.g. "KING − MAN + WOMAN = QUEEN"). All four fields are shown/used as-is; there's no derivation, so `answer` must actually be correct for the analogy.
+- `cipherDecoder`: a flat word list — the game applies a random alphabet shift to whichever word it picks itself, so you never need to supply the ciphered form.
+- `wordSearchSnippet`: same per-word-letter-array shape as `wordScramble`, but for the word search board — the game places 3 words per round on its own.
+- `syllogismValidator`: category triples for Syllogism Validator's "All A are B, all B are C" premises. The valid conclusion ("All A are C") and invalid variants are both derived by the app at round-generation time — just supply a real, true 3-level category chain (e.g. Cats/Animals/Living Things), nothing else needs to be correct-by-construction here.
 - Like the quiz/reading files, editing here **replaces the whole list for that key**, it doesn't merge with the bundled one — so when you add an entry, re-include the ones you want to keep too.
 - Seeded at push time with the same content already bundled in the app, so nothing changes for existing players until you actually edit these files.
+
+### `quick-facts.json`
+
+Trivia facts for the Quick Facts activity — a single file, not an ar/en pair, since each entry already carries both languages together (it's a translation pair, unlike quiz/reading content which is independently authored per language). Structure:
+
+```json
+{
+  "facts": [
+    {
+      "id": "qf-01-01",
+      "categoryEn": "Space & Astronomy",
+      "categoryAr": "الفضاء وعلم الفلك",
+      "textEn": "The Sun accounts for 99.86% of the mass in our solar system.",
+      "textAr": "تمثل الشمس 99.86% من كتلة نظامنا الشمسي."
+    }
+  ]
+}
+```
+
+`id` should stay stable once published (not strictly required today, but keeps room for future no-repeat/progress tracking keyed by id). Seeded at push time with the same 400 facts already bundled in the app.
 
 ## Workflow
 

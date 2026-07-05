@@ -111,5 +111,52 @@
     ["C", "A", "T"], ["D", "O", "G"], ["S", "U", "N"], ["M", "A", "P"], ["B", "A", "T"],
     ["R", "U", "N"], ["B", "I", "G"], ["T", "O", "P"], ["C", "U", "P"], ["R", "E", "D"],
     ["B", "O", "X"], ["H", "A", "T"], ["J", "A", "R"], ["F", "O", "X"], ["O", "W", "L"]
+  ],
+  "wordLengthLadder": [
+    "up", "go", "no", "in",
+    "cat", "dog", "sun", "red",
+    "frog", "blue", "tree", "star",
+    "apple", "house", "chair", "mouse",
+    "yellow", "garden", "planet", "spider",
+    "bicycle", "rainbow", "teacher", "diamond",
+    "elephant", "mountain", "umbrella", "suitcase",
+    "butterfly", "chocolate", "adventure"
+  ],
+  "wordEquationLogic": [
+    {"a": "KING", "b": "MAN", "c": "WOMAN", "answer": "QUEEN"},
+    {"a": "PRINCE", "b": "BOY", "c": "GIRL", "answer": "PRINCESS"},
+    {"a": "ACTOR", "b": "MAN", "c": "WOMAN", "answer": "ACTRESS"},
+    {"a": "WAITER", "b": "MAN", "c": "WOMAN", "answer": "WAITRESS"},
+    {"a": "HERO", "b": "MAN", "c": "WOMAN", "answer": "HEROINE"},
+    {"a": "PARIS", "b": "FRANCE", "c": "ITALY", "answer": "ROME"},
+    {"a": "LONDON", "b": "ENGLAND", "c": "GERMANY", "answer": "BERLIN"},
+    {"a": "TOKYO", "b": "JAPAN", "c": "CHINA", "answer": "BEIJING"},
+    {"a": "MADRID", "b": "SPAIN", "c": "PORTUGAL", "answer": "LISBON"},
+    {"a": "CAIRO", "b": "EGYPT", "c": "MOROCCO", "answer": "RABAT"},
+    {"a": "HOT", "b": "SUMMER", "c": "WINTER", "answer": "COLD"},
+    {"a": "SUNRISE", "b": "MORNING", "c": "EVENING", "answer": "SUNSET"},
+    {"a": "BREAKFAST", "b": "MORNING", "c": "NIGHT", "answer": "DINNER"},
+    {"a": "PUPPY", "b": "DOG", "c": "CAT", "answer": "KITTEN"},
+    {"a": "FOAL", "b": "HORSE", "c": "SHEEP", "answer": "LAMB"},
+    {"a": "CALF", "b": "COW", "c": "CHICKEN", "answer": "CHICK"}
+  ],
+  "cipherDecoder": [
+    "CAT", "DOG", "SUN", "MAP", "BAT", "RUN", "BIG", "TOP", "CUP", "RED",
+    "BOX", "HAT", "JAR", "FOX", "OWL", "TEA", "SKY"
+  ],
+  "wordSearchSnippet": [
+    ["C", "A", "T", "S"], ["D", "O", "G", "S"], ["S", "U", "N", "S"], ["S", "T", "A", "R"], ["F", "I", "S", "H"],
+    ["B", "I", "R", "D"], ["M", "O", "O", "N"], ["L", "E", "A", "F"], ["R", "A", "I", "N"], ["S", "N", "O", "W"],
+    ["W", "I", "N", "D"], ["T", "R", "E", "E"], ["G", "O", "L", "D"], ["B", "L", "U", "E"], ["P", "I", "N", "K"]
+  ],
+  "syllogismValidator": [
+    {"a": "Cats", "b": "Animals", "c": "Living Things"},
+    {"a": "Squares", "b": "Rectangles", "c": "Shapes"},
+    {"a": "Roses", "b": "Flowers", "c": "Plants"},
+    {"a": "Dogs", "b": "Mammals", "c": "Animals"},
+    {"a": "Cars", "b": "Vehicles", "c": "Machines"},
+    {"a": "Doctors", "b": "Professionals", "c": "Workers"},
+    {"a": "Triangles", "b": "Polygons", "c": "Shapes"},
+    {"a": "Apples", "b": "Fruits", "c": "Food"}
   ]
 }
